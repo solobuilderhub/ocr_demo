@@ -11,8 +11,14 @@ load_dotenv()
 kwargs = {}
 
 ## system prompt to use for the vision model
-custom_system_prompt = None
+custom_system_prompt = """
+The pdf page below is the CPCN A901 renewal form for the state of New Jersey.
+I need to get all the information of the applicant from the form. Please make sure to include all the details of the applicant.
+Please provide me with a json file containing the extracted information. While making the json, for the fields in which data is not available, please put "N/A" in the json. For checkboxes, if checked, put true, else false.
+If you are unable to extract any information, please put "N/A" in the json. In response, do not write anything else, just provide the json file.
 
+# """
+# custom_system_prompt = None  # Use None for default system prompt
 # to override
 # custom_system_prompt = "For the below pdf page, do something..something..." ## example
 
@@ -28,7 +34,7 @@ async def main():
     file_path = "./pdf/Signed A901.pdf" ## local filepath and file URL supported
 
     ## process only some pages or all
-    select_pages = 1 ## None for all, but could be int or list(int) page numbers (1 indexed)
+    select_pages = [1,4,7,8] ## None for all, but could be int or list(int) page numbers (1 indexed)
 
     output_dir = "./output"  # Use a relative path to a directory within your project
 
@@ -37,6 +43,7 @@ async def main():
         os.makedirs(output_dir)
 
     result = await zerox(file_path=file_path, model=model, output_dir=output_dir,
+                         maintain_format=True,
                         custom_system_prompt=custom_system_prompt, select_pages=select_pages, **kwargs)
     return result
 
@@ -45,3 +52,10 @@ result = asyncio.run(main())
 
 # print markdown result
 print(result)
+
+
+# """
+#     Convert the following PDF page to markdown.
+#     Return only the markdown with no explanation text.
+#     Do not exclude any content from the page.
+# """
