@@ -1,0 +1,540 @@
+{
+    "page_20_NameRow1": {
+        "/T": "page_20_NameRow1",
+        "/FT": "/Tx",
+        "/TU": "Name and Address of Disposal Facilities Used in 2016_Row_1",
+        "/Ff": "4096"
+    },
+    "page_20_checkTSRow1": {
+        "/T": "page_20_checkTSRow1",
+        "/FT": "/Btn"
+    },
+    "page_20_checkLFRow1": {
+        "/T": "page_20_checkLFRow1",
+        "/FT": "/Btn"
+    },
+    "page_20_TypeRow1": {
+        "/T": "page_20_TypeRow1",
+        "/FT": "/Tx",
+        "/TU": "Waste Type_TS LF RC RRF"
+    },
+    "page_20_TonsCoRow1": {
+        "/T": "page_20_TonsCoRow1",
+        "/FT": "/Tx",
+        "/TU": "Total Tons Picked up in County_TS LF RC RRF",
+        "/AA": "{'/F': IndirectObject(4626, 0, 2239656085504), '/K': IndirectObject(4633, 0, 2239656085504)}"
+    },
+    "page_20_TonsFacRow1": {
+        "/T": "page_20_TonsFacRow1",
+        "/FT": "/Tx",
+        "/TU": "Total Tons Disposed at Facility_TS LF RC RRF",
+        "/AA": "{'/F': IndirectObject(4628, 0, 2239656085504), '/K': IndirectObject(4631, 0, 2239656085504)}"
+    },
+    "page_20_TotalAmountRow1": {
+        "/T": "page_20_TotalAmountRow1",
+        "/FT": "/Tx",
+        "/TU": "Total Amount of Disposal Fee Paid to Facility_TS LF RC RRF",
+        "/AA": "{'/F': IndirectObject(4629, 0, 2239656085504), '/K': IndirectObject(4630, 0, 2239656085504)}"
+    },
+    "page_20_TaxRow1": {
+        "/T": "page_20_TaxRow1",
+        "/FT": "/Tx",
+        "/TU": "Recycling Tax Paid_TS LF RC RRF",
+        "/AA": "{'/F': IndirectObject(4624, 0, 2239656085504), '/K': IndirectObject(4625, 0, 2239656085504)}"
+    },
+    "page_20_GrossRevRow1": {
+        "/T": "page_20_GrossRevRow1",
+        "/FT": "/Tx",
+        "/TU": "Gross Revenue_TS LF RC RRF",
+        "/AA": "{'/F': IndirectObject(4627, 0, 2239656085504), '/K': IndirectObject(4640, 0, 2239656085504)}"
+    },
+    "page_20_checkRCRow1": {
+        "/T": "page_20_checkRCRow1",
+        "/FT": "/Btn"
+    },
+    "page_20_checkRRFRow1": {
+        "/T": "page_20_checkRRFRow1",
+        "/FT": "/Btn"
+    },
+    "page_20_NameRow2": {
+        "/T": "page_20_NameRow2",
+        "/FT": "/Tx",
+        "/TU": "Name and Address of Disposal Facilities Used in 2016_Row_2",
+        "/Ff": "4096"
+    },
+    "page_20_checkTSRow2": {
+        "/T": "page_20_checkTSRow2",
+        "/FT": "/Btn"
+    },
+    "page_20_checkLFRow2": {
+        "/T": "page_20_checkLFRow2",
+        "/FT": "/Btn"
+    },
+    "page_20_TypeRow2": {
+        "/T": "page_20_TypeRow2",
+        "/FT": "/Tx",
+        "/TU": "Waste Type_TS LF RC RRF"
+    },
+    "page_20_CountyRow2": {
+        "/T": "page_20_CountyRow2",
+        "/FT": "/Ch",
+        "/Ff": "655360",
+        "/V": " ",
+        "/DV": " ",
+        "/Opt": "[' ', 'Atlantic', 'Bergen', 'Burlington', 'Camden', 'Cape May', 'Cumberland', 'Essex', 'Gloucester', 'Hudson', 'Hunterdon', 'Mercer', 'Middlesex', 'Monmouth', 'Morris', 'Ocean', 'Passaic', 'Salem', 'Somerset', 'Sussex', 'Union', 'Warren']"
+    },
+    "page_20_TonsCoRow2": {
+        "/T": "page_20_TonsCoRow2",
+        "/FT": "/Tx",
+        "/TU": "Total Tons Picked up in County_TS LF RC RRF",
+        "/AA": "{'/F': IndirectObject(4641, 0, 2239656085504), '/K': IndirectObject(4646, 0, 2239656085504)}"
+    },
+    "page_20_TonsFacRow2": {
+        "/T": "page_20_TonsFacRow2",
+        "/FT": "/Tx",
+        "/TU": "Total Tons Disposed at Facility_TS LF RC RRF",
+        "/AA": "{'/F': IndirectObject(4642, 0, 2239656085504), '/K': IndirectObject(4637, 0, 2239656085504)}"
+    },
+    "page_20_TotalAmountRow2": {
+        "/T": "page_20_TotalAmountRow2",
+        "/FT": "/Tx",
+        "/TU": "Total Amount of Disposal Fee Paid to Facility_TS LF RC RRF",
+        "/AA": "{'/F': IndirectObject(4643, 0, 2239656085504), '/K': IndirectObject(4639, 0, 2239656085504)}"
+    },
+    "page_20_TaxRow2": {
+        "/T": "page_20_TaxRow2",
+        "/FT": "/Tx",
+        "/TU": "Recycling Tax Paid_TS LF RC RRF",
+        "/AA": "{'/F': IndirectObject(4644, 0, 2239656085504), '/K': IndirectObject(4636, 0, 2239656085504)}"
+    },
+    "page_20_GrossRevRow2": {
+        "/T": "page_20_GrossRevRow2",
+        "/FT": "/Tx",
+        "/TU": "Gross Revenue_TS LF RC RRF",
+        "/AA": "{'/F': IndirectObject(4635, 0, 2239656085504), '/K': IndirectObject(4638, 0, 2239656085504)}"
+    },
+    "page_20_checkRCRow2": {
+        "/T": "page_20_checkRCRow2",
+        "/FT": "/Btn"
+    },
+    "page_20_checkRRFRow2": {
+        "/T": "page_20_checkRRFRow2",
+        "/FT": "/Btn"
+    },
+    "page_20_NameRow3": {
+        "/T": "page_20_NameRow3",
+        "/FT": "/Tx",
+        "/TU": "Name and Address of Disposal Facilities Used in 2016_Row_3",
+        "/Ff": "4096"
+    },
+    "page_20_checkTSRow3": {
+        "/T": "page_20_checkTSRow3",
+        "/FT": "/Btn"
+    },
+    "page_20_checkLFRow3": {
+        "/T": "page_20_checkLFRow3",
+        "/FT": "/Btn"
+    },
+    "page_20_TypeRow3": {
+        "/T": "page_20_TypeRow3",
+        "/FT": "/Tx",
+        "/TU": "Waste Type_TS LF RC RRF"
+    },
+    "page_20_CountyRow3": {
+        "/T": "page_20_CountyRow3",
+        "/FT": "/Ch",
+        "/Ff": "655360",
+        "/V": " ",
+        "/DV": " ",
+        "/Opt": "[' ', 'Atlantic', 'Bergen', 'Burlington', 'Camden', 'Cape May', 'Cumberland', 'Essex', 'Gloucester', 'Hudson', 'Hunterdon', 'Mercer', 'Middlesex', 'Monmouth', 'Morris', 'Ocean', 'Passaic', 'Salem', 'Somerset', 'Sussex', 'Union', 'Warren']"
+    },
+    "page_20_TonsCoRow3": {
+        "/T": "page_20_TonsCoRow3",
+        "/FT": "/Tx",
+        "/TU": "Total Tons Picked up in County_TS LF RC RRF",
+        "/AA": "{'/F': IndirectObject(4647, 0, 2239656085504), '/K': IndirectObject(4653, 0, 2239656085504)}"
+    },
+    "page_20_TonsFacRow3": {
+        "/T": "page_20_TonsFacRow3",
+        "/FT": "/Tx",
+        "/TU": "Total Tons Disposed at Facility_TS LF RC RRF",
+        "/AA": "{'/F': IndirectObject(4656, 0, 2239656085504), '/K': IndirectObject(4648, 0, 2239656085504)}"
+    },
+    "page_20_TotalAmountRow3": {
+        "/T": "page_20_TotalAmountRow3",
+        "/FT": "/Tx",
+        "/TU": "Total Amount of Disposal Fee Paid to Facility_TS LF RC RRF",
+        "/AA": "{'/F': IndirectObject(4654, 0, 2239656085504), '/K': IndirectObject(4655, 0, 2239656085504)}"
+    },
+    "page_20_TaxRow3": {
+        "/T": "page_20_TaxRow3",
+        "/FT": "/Tx",
+        "/TU": "Recycling Tax Paid_TS LF RC RRF",
+        "/AA": "{'/F': IndirectObject(4649, 0, 2239656085504), '/K': IndirectObject(4650, 0, 2239656085504)}"
+    },
+    "page_20_GrossRevRow3": {
+        "/T": "page_20_GrossRevRow3",
+        "/FT": "/Tx",
+        "/TU": "Gross Revenue_TS LF RC RRF",
+        "/AA": "{'/F': IndirectObject(4651, 0, 2239656085504), '/K': IndirectObject(4652, 0, 2239656085504)}"
+    },
+    "page_20_checkRCRow3": {
+        "/T": "page_20_checkRCRow3",
+        "/FT": "/Btn"
+    },
+    "page_20_checkRRFRow3": {
+        "/T": "page_20_checkRRFRow3",
+        "/FT": "/Btn"
+    },
+    "page_20_NameRow4": {
+        "/T": "page_20_NameRow4",
+        "/FT": "/Tx",
+        "/TU": "Name and Address of Disposal Facilities Used in 2016_Row_4",
+        "/Ff": "4096"
+    },
+    "page_20_checkTSRow4": {
+        "/T": "page_20_checkTSRow4",
+        "/FT": "/Btn"
+    },
+    "page_20_checkLFRow4": {
+        "/T": "page_20_checkLFRow4",
+        "/FT": "/Btn"
+    },
+    "page_20_TypeRow4": {
+        "/T": "page_20_TypeRow4",
+        "/FT": "/Tx",
+        "/TU": "Waste Type_TS LF RC RRF"
+    },
+    "page_20_CountyRow4": {
+        "/T": "page_20_CountyRow4",
+        "/FT": "/Ch",
+        "/Ff": "655360",
+        "/V": " ",
+        "/DV": " ",
+        "/Opt": "[' ', 'Atlantic', 'Bergen', 'Burlington', 'Camden', 'Cape May', 'Cumberland', 'Essex', 'Gloucester', 'Hudson', 'Hunterdon', 'Mercer', 'Middlesex', 'Monmouth', 'Morris', 'Ocean', 'Passaic', 'Salem', 'Somerset', 'Sussex', 'Union', 'Warren']"
+    },
+    "page_20_TonsCoRow4": {
+        "/T": "page_20_TonsCoRow4",
+        "/FT": "/Tx",
+        "/TU": "Total Tons Picked up in County_TS LF RC RRF",
+        "/AA": "{'/F': IndirectObject(4665, 0, 2239656085504), '/K': IndirectObject(4667, 0, 2239656085504)}"
+    },
+    "page_20_TonsFacRow4": {
+        "/T": "page_20_TonsFacRow4",
+        "/FT": "/Tx",
+        "/TU": "Total Tons Disposed at Facility_TS LF RC RRF",
+        "/AA": "{'/F': IndirectObject(4661, 0, 2239656085504), '/K': IndirectObject(4658, 0, 2239656085504)}"
+    },
+    "page_20_TotalAmountRow4": {
+        "/T": "page_20_TotalAmountRow4",
+        "/FT": "/Tx",
+        "/TU": "Total Amount of Disposal Fee Paid to Facility_TS LF RC RRF",
+        "/AA": "{'/F': IndirectObject(4664, 0, 2239656085504), '/K': IndirectObject(4666, 0, 2239656085504)}"
+    },
+    "page_20_TaxRow4": {
+        "/T": "page_20_TaxRow4",
+        "/FT": "/Tx",
+        "/TU": "Recycling Tax Paid_TS LF RC RRF",
+        "/AA": "{'/F': IndirectObject(4668, 0, 2239656085504), '/K': IndirectObject(4657, 0, 2239656085504)}"
+    },
+    "page_20_GrossRevRow4": {
+        "/T": "page_20_GrossRevRow4",
+        "/FT": "/Tx",
+        "/TU": "Gross Revenue_TS LF RC RRF",
+        "/AA": "{'/F': IndirectObject(4662, 0, 2239656085504), '/K': IndirectObject(4663, 0, 2239656085504)}"
+    },
+    "page_20_checkRCRow4": {
+        "/T": "page_20_checkRCRow4",
+        "/FT": "/Btn"
+    },
+    "page_20_checkRRFRow4": {
+        "/T": "page_20_checkRRFRow4",
+        "/FT": "/Btn"
+    },
+    "page_20_NameRow5": {
+        "/T": "page_20_NameRow5",
+        "/FT": "/Tx",
+        "/TU": "Name and Address of Disposal Facilities Used in 2016_Row_5",
+        "/Ff": "4096"
+    },
+    "page_20_checkTSRow5": {
+        "/T": "page_20_checkTSRow5",
+        "/FT": "/Btn"
+    },
+    "page_20_checkLFRow5": {
+        "/T": "page_20_checkLFRow5",
+        "/FT": "/Btn"
+    },
+    "page_20_TypeRow5": {
+        "/T": "page_20_TypeRow5",
+        "/FT": "/Tx",
+        "/TU": "Waste Type_TS LF RC RRF"
+    },
+    "page_20_CountyRow5": {
+        "/T": "page_20_CountyRow5",
+        "/FT": "/Ch",
+        "/Ff": "655360",
+        "/V": " ",
+        "/DV": " ",
+        "/Opt": "[' ', 'Atlantic', 'Bergen', 'Burlington', 'Camden', 'Cape May', 'Cumberland', 'Essex', 'Gloucester', 'Hudson', 'Hunterdon', 'Mercer', 'Middlesex', 'Monmouth', 'Morris', 'Ocean', 'Passaic', 'Salem', 'Somerset', 'Sussex', 'Union', 'Warren']"
+    },
+    "page_20_TonsCoRow5": {
+        "/T": "page_20_TonsCoRow5",
+        "/FT": "/Tx",
+        "/TU": "Total Tons Picked up in County_TS LF RC RRF",
+        "/AA": "{'/F': IndirectObject(4659, 0, 2239656085504), '/K': IndirectObject(4660, 0, 2239656085504)}"
+    },
+    "page_20_TonsFacRow5": {
+        "/T": "page_20_TonsFacRow5",
+        "/FT": "/Tx",
+        "/TU": "Total Tons Disposed at Facility_TS LF RC RRF",
+        "/AA": "{'/F': IndirectObject(4679, 0, 2239656085504), '/K': IndirectObject(4671, 0, 2239656085504)}"
+    },
+    "page_20_TotalAmountRow5": {
+        "/T": "page_20_TotalAmountRow5",
+        "/FT": "/Tx",
+        "/TU": "Total Amount of Disposal Fee Paid to Facility_TS LF RC RRF",
+        "/AA": "{'/F': IndirectObject(4673, 0, 2239656085504), '/K': IndirectObject(4677, 0, 2239656085504)}"
+    },
+    "page_20_TaxRow5": {
+        "/T": "page_20_TaxRow5",
+        "/FT": "/Tx",
+        "/TU": "Recycling Tax Paid_TS LF RC RRF",
+        "/AA": "{'/F': IndirectObject(4678, 0, 2239656085504), '/K': IndirectObject(4674, 0, 2239656085504)}"
+    },
+    "page_20_GrossRevRow5": {
+        "/T": "page_20_GrossRevRow5",
+        "/FT": "/Tx",
+        "/TU": "Gross Revenue_TS LF RC RRF",
+        "/AA": "{'/F': IndirectObject(4672, 0, 2239656085504), '/K': IndirectObject(4676, 0, 2239656085504)}"
+    },
+    "page_20_checkRCRow5": {
+        "/T": "page_20_checkRCRow5",
+        "/FT": "/Btn"
+    },
+    "page_20_checkRRFRow5": {
+        "/T": "page_20_checkRRFRow5",
+        "/FT": "/Btn"
+    },
+    "page_20_NameRow6": {
+        "/T": "page_20_NameRow6",
+        "/FT": "/Tx",
+        "/TU": "Name and Address of Disposal Facilities Used in 2016_Row_6",
+        "/Ff": "4096"
+    },
+    "page_20_checkTSRow6": {
+        "/T": "page_20_checkTSRow6",
+        "/FT": "/Btn"
+    },
+    "page_20_checkLFRow6": {
+        "/T": "page_20_checkLFRow6",
+        "/FT": "/Btn"
+    },
+    "page_20_TypeRow6": {
+        "/T": "page_20_TypeRow6",
+        "/FT": "/Tx",
+        "/TU": "Waste Type_TS LF RC RRF"
+    },
+    "page_20_CountyRow6": {
+        "/T": "page_20_CountyRow6",
+        "/FT": "/Ch",
+        "/Ff": "655360",
+        "/V": " ",
+        "/DV": " ",
+        "/Opt": "[' ', 'Atlantic', 'Bergen', 'Burlington', 'Camden', 'Cape May', 'Cumberland', 'Essex', 'Gloucester', 'Hudson', 'Hunterdon', 'Mercer', 'Middlesex', 'Monmouth', 'Morris', 'Ocean', 'Passaic', 'Salem', 'Somerset', 'Sussex', 'Union', 'Warren']"
+    },
+    "page_20_TonsCoRow6": {
+        "/T": "page_20_TonsCoRow6",
+        "/FT": "/Tx",
+        "/TU": "Total Tons Picked up in County_TS LF RC RRF",
+        "/AA": "{'/F': IndirectObject(4670, 0, 2239656085504), '/K': IndirectObject(4675, 0, 2239656085504)}"
+    },
+    "page_20_TonsFacRow6": {
+        "/T": "page_20_TonsFacRow6",
+        "/FT": "/Tx",
+        "/TU": "Total Tons Disposed at Facility_TS LF RC RRF",
+        "/AA": "{'/F': IndirectObject(4669, 0, 2239656085504), '/K': IndirectObject(4685, 0, 2239656085504)}"
+    },
+    "page_20_TotalAmountRow6": {
+        "/T": "page_20_TotalAmountRow6",
+        "/FT": "/Tx",
+        "/TU": "Total Amount of Disposal Fee Paid to Facility_TS LF RC RRF",
+        "/AA": "{'/F': IndirectObject(4680, 0, 2239656085504), '/K': IndirectObject(4683, 0, 2239656085504)}"
+    },
+    "page_20_TaxRow6": {
+        "/T": "page_20_TaxRow6",
+        "/FT": "/Tx",
+        "/TU": "Recycling Tax Paid_TS LF RC RRF",
+        "/AA": "{'/F': IndirectObject(4686, 0, 2239656085504), '/K': IndirectObject(4684, 0, 2239656085504)}"
+    },
+    "page_20_GrossRevRow6": {
+        "/T": "page_20_GrossRevRow6",
+        "/FT": "/Tx",
+        "/TU": "Gross Revenue_TS LF RC RRF",
+        "/AA": "{'/F': IndirectObject(4687, 0, 2239656085504), '/K': IndirectObject(4688, 0, 2239656085504)}"
+    },
+    "page_20_checkRCRow6": {
+        "/T": "page_20_checkRCRow6",
+        "/FT": "/Btn"
+    },
+    "page_20_checkRRFRow6": {
+        "/T": "page_20_checkRRFRow6",
+        "/FT": "/Btn"
+    },
+    "page_20_NameRow7": {
+        "/T": "page_20_NameRow7",
+        "/FT": "/Tx",
+        "/TU": "Name and Address of Disposal Facilities Used in 2016_Row_7",
+        "/Ff": "4096"
+    },
+    "page_20_checkTSRow7": {
+        "/T": "page_20_checkTSRow7",
+        "/FT": "/Btn"
+    },
+    "page_20_checkLFRow7": {
+        "/T": "page_20_checkLFRow7",
+        "/FT": "/Btn"
+    },
+    "page_20_TypeRow7": {
+        "/T": "page_20_TypeRow7",
+        "/FT": "/Tx",
+        "/TU": "Waste Type_TS LF RC RRF"
+    },
+    "page_20_CountyRow7": {
+        "/T": "page_20_CountyRow7",
+        "/FT": "/Ch",
+        "/Ff": "655360",
+        "/V": " ",
+        "/DV": " ",
+        "/Opt": "[' ', 'Atlantic', 'Bergen', 'Burlington', 'Camden', 'Cape May', 'Cumberland', 'Essex', 'Gloucester', 'Hudson', 'Hunterdon', 'Mercer', 'Middlesex', 'Monmouth', 'Morris', 'Ocean', 'Passaic', 'Salem', 'Somerset', 'Sussex', 'Union', 'Warren']"
+    },
+    "page_20_TonsCoRow7": {
+        "/T": "page_20_TonsCoRow7",
+        "/FT": "/Tx",
+        "/TU": "Total Tons Picked up in County_TS LF RC RRF",
+        "/AA": "{'/F': IndirectObject(4681, 0, 2239656085504), '/K': IndirectObject(4689, 0, 2239656085504)}"
+    },
+    "page_20_TonsFacRow7": {
+        "/T": "page_20_TonsFacRow7",
+        "/FT": "/Tx",
+        "/TU": "Total Tons Disposed at Facility_TS LF RC RRF",
+        "/AA": "{'/F': IndirectObject(4682, 0, 2239656085504), '/K': IndirectObject(4696, 0, 2239656085504)}"
+    },
+    "page_20_TotalAmountRow7": {
+        "/T": "page_20_TotalAmountRow7",
+        "/FT": "/Tx",
+        "/TU": "Total Amount of Disposal Fee Paid to Facility_TS LF RC RRF",
+        "/AA": "{'/F': IndirectObject(4690, 0, 2239656085504), '/K': IndirectObject(4691, 0, 2239656085504)}"
+    },
+    "page_20_TaxRow7": {
+        "/T": "page_20_TaxRow7",
+        "/FT": "/Tx",
+        "/TU": "Recycling Tax Paid_TS LF RC RRF",
+        "/AA": "{'/F': IndirectObject(4700, 0, 2239656085504), '/K': IndirectObject(4692, 0, 2239656085504)}"
+    },
+    "page_20_GrossRevRow7": {
+        "/T": "page_20_GrossRevRow7",
+        "/FT": "/Tx",
+        "/TU": "Gross Revenue_TS LF RC RRF",
+        "/AA": "{'/F': IndirectObject(4693, 0, 2239656085504), '/K': IndirectObject(4699, 0, 2239656085504)}"
+    },
+    "page_20_checkRCRow7": {
+        "/T": "page_20_checkRCRow7",
+        "/FT": "/Btn"
+    },
+    "page_20_checkRRFRow7": {
+        "/T": "page_20_checkRRFRow7",
+        "/FT": "/Btn"
+    },
+    "page_20_NameRow8": {
+        "/T": "page_20_NameRow8",
+        "/FT": "/Tx",
+        "/TU": "Name and Address of Disposal Facilities Used in 2016_Row_8",
+        "/Ff": "4096"
+    },
+    "page_20_checkTSRow8": {
+        "/T": "page_20_checkTSRow8",
+        "/FT": "/Btn"
+    },
+    "page_20_checkLFRow8": {
+        "/T": "page_20_checkLFRow8",
+        "/FT": "/Btn"
+    },
+    "page_20_TypeRow8": {
+        "/T": "page_20_TypeRow8",
+        "/FT": "/Tx",
+        "/TU": "Waste Type_TS LF RC RRF"
+    },
+    "page_20_CountyRow8": {
+        "/T": "page_20_CountyRow8",
+        "/FT": "/Ch",
+        "/Ff": "655360",
+        "/V": " ",
+        "/DV": " ",
+        "/Opt": "[' ', 'Atlantic', 'Bergen', 'Burlington', 'Camden', 'Cape May', 'Cumberland', 'Essex', 'Gloucester', 'Hudson', 'Hunterdon', 'Mercer', 'Middlesex', 'Monmouth', 'Morris', 'Ocean', 'Passaic', 'Salem', 'Somerset', 'Sussex', 'Union', 'Warren']"
+    },
+    "page_20_TonsCoRow8": {
+        "/T": "page_20_TonsCoRow8",
+        "/FT": "/Tx",
+        "/TU": "Total Tons Picked up in County_TS LF RC RRF",
+        "/AA": "{'/F': IndirectObject(4694, 0, 2239656085504), '/K': IndirectObject(4695, 0, 2239656085504)}"
+    },
+    "page_20_TonsFacRow8": {
+        "/T": "page_20_TonsFacRow8",
+        "/FT": "/Tx",
+        "/TU": "Total Tons Disposed at Facility_TS LF RC RRF",
+        "/AA": "{'/F': IndirectObject(4698, 0, 2239656085504), '/K': IndirectObject(4697, 0, 2239656085504)}"
+    },
+    "page_20_TotalAmountRow8": {
+        "/T": "page_20_TotalAmountRow8",
+        "/FT": "/Tx",
+        "/TU": "Total Amount of Disposal Fee Paid to Facility_TS LF RC RRF",
+        "/AA": "{'/F': IndirectObject(4706, 0, 2239656085504), '/K': IndirectObject(4707, 0, 2239656085504)}"
+    },
+    "page_20_TaxRow8": {
+        "/T": "page_20_TaxRow8",
+        "/FT": "/Tx",
+        "/TU": "Recycling Tax Paid_TS LF RC RRF",
+        "/AA": "{'/F': IndirectObject(4704, 0, 2239656085504), '/K': IndirectObject(4708, 0, 2239656085504)}"
+    },
+    "page_20_GrossRevRow8": {
+        "/T": "page_20_GrossRevRow8",
+        "/FT": "/Tx",
+        "/TU": "Gross Revenue_TS LF RC RRF",
+        "/AA": "{'/F': IndirectObject(4705, 0, 2239656085504), '/K': IndirectObject(4709, 0, 2239656085504)}"
+    },
+    "page_20_checkRCRow8": {
+        "/T": "page_20_checkRCRow8",
+        "/FT": "/Btn"
+    },
+    "page_20_checkRRFRow8": {
+        "/T": "page_20_checkRRFRow8",
+        "/FT": "/Btn"
+    },
+    "page_20_TotalGrossRev": {
+        "/T": "page_20_TotalGrossRev",
+        "/FT": "/Tx",
+        "/TU": "Gross Revenue_Total Gross Revenue:",
+        "/V": "0",
+        "/AA": "{'/C': IndirectObject(4702, 0, 2239656085504), '/F': IndirectObject(4703, 0, 2239656085504), '/K': IndirectObject(4701, 0, 2239656085504)}"
+    },
+    "page_20_duplicatePage": {
+        "/T": "page_20_duplicatePage",
+        "/FT": "/Btn",
+        "/TU": "Duplicate",
+        "/Ff": "65536"
+    },
+    "page_20_CountyRow1": {
+        "/T": "page_20_CountyRow1",
+        "/FT": "/Ch",
+        "/Ff": "655360",
+        "/V": " ",
+        "/DV": " ",
+        "/Opt": "[' ', 'Atlantic', 'Bergen', 'Burlington', 'Camden', 'Cape May', 'Cumberland', 'Essex', 'Gloucester', 'Hudson', 'Hunterdon', 'Mercer', 'Middlesex', 'Monmouth', 'Morris', 'Ocean', 'Passaic', 'Salem', 'Somerset', 'Sussex', 'Union', 'Warren']"
+    },
+    "page_20": {
+        "/T": "page_20",
+        "/Parent": "{'/Kids': [IndirectObject(5303, 0, 2239656085504)], '/T': 'P19'}",
+        "/Kids": "[IndirectObject(3200, 0, 2239656085504), IndirectObject(3203, 0, 2239656085504), IndirectObject(3204, 0, 2239656085504), IndirectObject(3207, 0, 2239656085504), IndirectObject(3208, 0, 2239656085504), IndirectObject(3210, 0, 2239656085504), IndirectObject(3214, 0, 2239656085504), IndirectObject(3215, 0, 2239656085504), IndirectObject(3211, 0, 2239656085504), IndirectObject(3206, 0, 2239656085504), IndirectObject(3205, 0, 2239656085504), IndirectObject(3212, 0, 2239656085504), IndirectObject(3213, 0, 2239656085504), IndirectObject(3216, 0, 2239656085504), IndirectObject(3181, 0, 2239656085504), IndirectObject(3178, 0, 2239656085504), IndirectObject(3179, 0, 2239656085504), IndirectObject(3180, 0, 2239656085504), IndirectObject(3185, 0, 2239656085504), IndirectObject(3182, 0, 2239656085504), IndirectObject(3184, 0, 2239656085504), IndirectObject(3176, 0, 2239656085504), IndirectObject(3177, 0, 2239656085504), IndirectObject(3186, 0, 2239656085504), IndirectObject(3183, 0, 2239656085504), IndirectObject(3188, 0, 2239656085504), IndirectObject(3190, 0, 2239656085504), IndirectObject(3191, 0, 2239656085504), IndirectObject(3196, 0, 2239656085504), IndirectObject(3193, 0, 2239656085504), IndirectObject(3194, 0, 2239656085504), IndirectObject(3197, 0, 2239656085504), IndirectObject(3198, 0, 2239656085504), IndirectObject(3187, 0, 2239656085504), IndirectObject(3189, 0, 2239656085504), IndirectObject(3195, 0, 2239656085504), IndirectObject(3192, 0, 2239656085504), IndirectObject(3199, 0, 2239656085504), IndirectObject(3361, 0, 2239656085504), IndirectObject(3357, 0, 2239656085504), IndirectObject(3359, 0, 2239656085504), IndirectObject(3358, 0, 2239656085504), IndirectObject(3360, 0, 2239656085504), IndirectObject(3365, 0, 2239656085504), IndirectObject(3364, 0, 2239656085504), IndirectObject(3175, 0, 2239656085504), IndirectObject(3366, 0, 2239656085504), IndirectObject(3363, 0, 2239656085504), IndirectObject(3362, 0, 2239656085504), IndirectObject(3319, 0, 2239656085504), IndirectObject(3322, 0, 2239656085504), IndirectObject(3324, 0, 2239656085504), IndirectObject(3328, 0, 2239656085504), IndirectObject(3329, 0, 2239656085504), IndirectObject(3325, 0, 2239656085504), IndirectObject(3323, 0, 2239656085504), IndirectObject(3327, 0, 2239656085504), IndirectObject(3320, 0, 2239656085504), IndirectObject(3321, 0, 2239656085504), IndirectObject(3326, 0, 2239656085504), IndirectObject(3330, 0, 2239656085504), IndirectObject(3331, 0, 2239656085504), IndirectObject(3343, 0, 2239656085504), IndirectObject(3339, 0, 2239656085504), IndirectObject(3335, 0, 2239656085504), IndirectObject(3334, 0, 2239656085504), IndirectObject(3341, 0, 2239656085504), IndirectObject(3342, 0, 2239656085504), IndirectObject(3338, 0, 2239656085504), IndirectObject(3333, 0, 2239656085504), IndirectObject(3332, 0, 2239656085504), IndirectObject(3336, 0, 2239656085504), IndirectObject(3340, 0, 2239656085504), IndirectObject(3337, 0, 2239656085504), IndirectObject(3345, 0, 2239656085504), IndirectObject(3346, 0, 2239656085504), IndirectObject(3348, 0, 2239656085504), IndirectObject(3353, 0, 2239656085504), IndirectObject(3352, 0, 2239656085504), IndirectObject(3354, 0, 2239656085504), IndirectObject(3349, 0, 2239656085504), IndirectObject(3344, 0, 2239656085504), IndirectObject(3347, 0, 2239656085504), IndirectObject(3351, 0, 2239656085504), IndirectObject(3350, 0, 2239656085504), IndirectObject(3355, 0, 2239656085504), IndirectObject(3226, 0, 2239656085504), IndirectObject(3220, 0, 2239656085504), IndirectObject(3218, 0, 2239656085504), IndirectObject(3223, 0, 2239656085504), IndirectObject(3222, 0, 2239656085504), IndirectObject(3221, 0, 2239656085504), IndirectObject(3227, 0, 2239656085504), IndirectObject(3356, 0, 2239656085504), IndirectObject(3217, 0, 2239656085504), IndirectObject(3225, 0, 2239656085504), IndirectObject(3224, 0, 2239656085504), IndirectObject(3219, 0, 2239656085504), IndirectObject(3209, 0, 2239656085504)]"
+    }
+}

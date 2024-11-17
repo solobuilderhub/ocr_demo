@@ -1,0 +1,218 @@
+{
+    "page_16_BrokerRow1": {
+        "/T": "page_16_BrokerRow1",
+        "/FT": "/Tx",
+        "/Parent": "{'/Kids': [IndirectObject(3060, 0, 2239656085504), IndirectObject(3058, 0, 2239656085504), IndirectObject(3064, 0, 2239656085504), IndirectObject(3065, 0, 2239656085504), IndirectObject(3066, 0, 2239656085504), IndirectObject(3061, 0, 2239656085504), IndirectObject(3071, 0, 2239656085504), IndirectObject(3069, 0, 2239656085504), IndirectObject(3068, 0, 2239656085504), IndirectObject(3070, 0, 2239656085504), IndirectObject(3077, 0, 2239656085504), IndirectObject(3076, 0, 2239656085504), IndirectObject(3078, 0, 2239656085504), IndirectObject(3074, 0, 2239656085504), IndirectObject(3079, 0, 2239656085504), IndirectObject(3081, 0, 2239656085504), IndirectObject(3086, 0, 2239656085504), IndirectObject(3083, 0, 2239656085504), IndirectObject(3082, 0, 2239656085504), IndirectObject(3085, 0, 2239656085504), IndirectObject(5306, 0, 2239656085504), IndirectObject(5307, 0, 2239656085504), IndirectObject(5308, 0, 2239656085504), IndirectObject(5309, 0, 2239656085504), IndirectObject(5310, 0, 2239656085504), IndirectObject(3096, 0, 2239656085504)], '/Parent': IndirectObject(5290, 0, 2239656085504), '/T': 'page_16'}",
+        "/TU": "Name of Solid Waste Broker_Row_1",
+        "/Ff": "4096",
+        "/V": "page 16 1"
+    },
+    "page_16_ZipRow1": {
+        "/T": "page_16_ZipRow1",
+        "/FT": "/Tx",
+        "/Parent": "{'/Kids': [IndirectObject(3060, 0, 2239656085504), IndirectObject(3058, 0, 2239656085504), IndirectObject(3064, 0, 2239656085504), IndirectObject(3065, 0, 2239656085504), IndirectObject(3066, 0, 2239656085504), IndirectObject(3061, 0, 2239656085504), IndirectObject(3071, 0, 2239656085504), IndirectObject(3069, 0, 2239656085504), IndirectObject(3068, 0, 2239656085504), IndirectObject(3070, 0, 2239656085504), IndirectObject(3077, 0, 2239656085504), IndirectObject(3076, 0, 2239656085504), IndirectObject(3078, 0, 2239656085504), IndirectObject(3074, 0, 2239656085504), IndirectObject(3079, 0, 2239656085504), IndirectObject(3081, 0, 2239656085504), IndirectObject(3086, 0, 2239656085504), IndirectObject(3083, 0, 2239656085504), IndirectObject(3082, 0, 2239656085504), IndirectObject(3085, 0, 2239656085504), IndirectObject(5306, 0, 2239656085504), IndirectObject(5307, 0, 2239656085504), IndirectObject(5308, 0, 2239656085504), IndirectObject(5309, 0, 2239656085504), IndirectObject(5310, 0, 2239656085504), IndirectObject(3096, 0, 2239656085504)], '/Parent': IndirectObject(5290, 0, 2239656085504), '/T': 'page_16'}",
+        "/TU": "Address: Street, City, State and Zip_Row_1",
+        "/Ff": "4096",
+        "/V": "page 16 6"
+    },
+    "page_16_SWRow1": {
+        "/T": "page_16_SWRow1",
+        "/FT": "/Tx",
+        "/Parent": "{'/Kids': [IndirectObject(3060, 0, 2239656085504), IndirectObject(3058, 0, 2239656085504), IndirectObject(3064, 0, 2239656085504), IndirectObject(3065, 0, 2239656085504), IndirectObject(3066, 0, 2239656085504), IndirectObject(3061, 0, 2239656085504), IndirectObject(3071, 0, 2239656085504), IndirectObject(3069, 0, 2239656085504), IndirectObject(3068, 0, 2239656085504), IndirectObject(3070, 0, 2239656085504), IndirectObject(3077, 0, 2239656085504), IndirectObject(3076, 0, 2239656085504), IndirectObject(3078, 0, 2239656085504), IndirectObject(3074, 0, 2239656085504), IndirectObject(3079, 0, 2239656085504), IndirectObject(3081, 0, 2239656085504), IndirectObject(3086, 0, 2239656085504), IndirectObject(3083, 0, 2239656085504), IndirectObject(3082, 0, 2239656085504), IndirectObject(3085, 0, 2239656085504), IndirectObject(5306, 0, 2239656085504), IndirectObject(5307, 0, 2239656085504), IndirectObject(5308, 0, 2239656085504), IndirectObject(5309, 0, 2239656085504), IndirectObject(5310, 0, 2239656085504), IndirectObject(3096, 0, 2239656085504)], '/Parent': IndirectObject(5290, 0, 2239656085504), '/T': 'page_16'}",
+        "/TU": "SW",
+        "/V": "page 16 11"
+    },
+    "page_16_TotalRow1": {
+        "/T": "page_16_TotalRow1",
+        "/FT": "/Tx",
+        "/Parent": "{'/Kids': [IndirectObject(3060, 0, 2239656085504), IndirectObject(3058, 0, 2239656085504), IndirectObject(3064, 0, 2239656085504), IndirectObject(3065, 0, 2239656085504), IndirectObject(3066, 0, 2239656085504), IndirectObject(3061, 0, 2239656085504), IndirectObject(3071, 0, 2239656085504), IndirectObject(3069, 0, 2239656085504), IndirectObject(3068, 0, 2239656085504), IndirectObject(3070, 0, 2239656085504), IndirectObject(3077, 0, 2239656085504), IndirectObject(3076, 0, 2239656085504), IndirectObject(3078, 0, 2239656085504), IndirectObject(3074, 0, 2239656085504), IndirectObject(3079, 0, 2239656085504), IndirectObject(3081, 0, 2239656085504), IndirectObject(3086, 0, 2239656085504), IndirectObject(3083, 0, 2239656085504), IndirectObject(3082, 0, 2239656085504), IndirectObject(3085, 0, 2239656085504), IndirectObject(5306, 0, 2239656085504), IndirectObject(5307, 0, 2239656085504), IndirectObject(5308, 0, 2239656085504), IndirectObject(5309, 0, 2239656085504), IndirectObject(5310, 0, 2239656085504), IndirectObject(3096, 0, 2239656085504)], '/Parent': IndirectObject(5290, 0, 2239656085504), '/T': 'page_16'}",
+        "/TU": "Total Amount of Payment Received from Broker_SW",
+        "/V": "page 16 16",
+        "/AA": "{'/F': IndirectObject(3090, 0, 2239656085504), '/K': IndirectObject(3097, 0, 2239656085504)}"
+    },
+    "page_16_BrokerRow2": {
+        "/T": "page_16_BrokerRow2",
+        "/FT": "/Tx",
+        "/Parent": "{'/Kids': [IndirectObject(3060, 0, 2239656085504), IndirectObject(3058, 0, 2239656085504), IndirectObject(3064, 0, 2239656085504), IndirectObject(3065, 0, 2239656085504), IndirectObject(3066, 0, 2239656085504), IndirectObject(3061, 0, 2239656085504), IndirectObject(3071, 0, 2239656085504), IndirectObject(3069, 0, 2239656085504), IndirectObject(3068, 0, 2239656085504), IndirectObject(3070, 0, 2239656085504), IndirectObject(3077, 0, 2239656085504), IndirectObject(3076, 0, 2239656085504), IndirectObject(3078, 0, 2239656085504), IndirectObject(3074, 0, 2239656085504), IndirectObject(3079, 0, 2239656085504), IndirectObject(3081, 0, 2239656085504), IndirectObject(3086, 0, 2239656085504), IndirectObject(3083, 0, 2239656085504), IndirectObject(3082, 0, 2239656085504), IndirectObject(3085, 0, 2239656085504), IndirectObject(5306, 0, 2239656085504), IndirectObject(5307, 0, 2239656085504), IndirectObject(5308, 0, 2239656085504), IndirectObject(5309, 0, 2239656085504), IndirectObject(5310, 0, 2239656085504), IndirectObject(3096, 0, 2239656085504)], '/Parent': IndirectObject(5290, 0, 2239656085504), '/T': 'page_16'}",
+        "/TU": "Name of Solid Waste Broker_Row_2",
+        "/Ff": "4096",
+        "/V": "page 16 2"
+    },
+    "page_16_ZipRow2": {
+        "/T": "page_16_ZipRow2",
+        "/FT": "/Tx",
+        "/Parent": "{'/Kids': [IndirectObject(3060, 0, 2239656085504), IndirectObject(3058, 0, 2239656085504), IndirectObject(3064, 0, 2239656085504), IndirectObject(3065, 0, 2239656085504), IndirectObject(3066, 0, 2239656085504), IndirectObject(3061, 0, 2239656085504), IndirectObject(3071, 0, 2239656085504), IndirectObject(3069, 0, 2239656085504), IndirectObject(3068, 0, 2239656085504), IndirectObject(3070, 0, 2239656085504), IndirectObject(3077, 0, 2239656085504), IndirectObject(3076, 0, 2239656085504), IndirectObject(3078, 0, 2239656085504), IndirectObject(3074, 0, 2239656085504), IndirectObject(3079, 0, 2239656085504), IndirectObject(3081, 0, 2239656085504), IndirectObject(3086, 0, 2239656085504), IndirectObject(3083, 0, 2239656085504), IndirectObject(3082, 0, 2239656085504), IndirectObject(3085, 0, 2239656085504), IndirectObject(5306, 0, 2239656085504), IndirectObject(5307, 0, 2239656085504), IndirectObject(5308, 0, 2239656085504), IndirectObject(5309, 0, 2239656085504), IndirectObject(5310, 0, 2239656085504), IndirectObject(3096, 0, 2239656085504)], '/Parent': IndirectObject(5290, 0, 2239656085504), '/T': 'page_16'}",
+        "/TU": "Address: Street, City, State and Zip_Row_2",
+        "/Ff": "4096",
+        "/V": "page 16 7"
+    },
+    "page_16_SWRow2": {
+        "/T": "page_16_SWRow2",
+        "/FT": "/Tx",
+        "/Parent": "{'/Kids': [IndirectObject(3060, 0, 2239656085504), IndirectObject(3058, 0, 2239656085504), IndirectObject(3064, 0, 2239656085504), IndirectObject(3065, 0, 2239656085504), IndirectObject(3066, 0, 2239656085504), IndirectObject(3061, 0, 2239656085504), IndirectObject(3071, 0, 2239656085504), IndirectObject(3069, 0, 2239656085504), IndirectObject(3068, 0, 2239656085504), IndirectObject(3070, 0, 2239656085504), IndirectObject(3077, 0, 2239656085504), IndirectObject(3076, 0, 2239656085504), IndirectObject(3078, 0, 2239656085504), IndirectObject(3074, 0, 2239656085504), IndirectObject(3079, 0, 2239656085504), IndirectObject(3081, 0, 2239656085504), IndirectObject(3086, 0, 2239656085504), IndirectObject(3083, 0, 2239656085504), IndirectObject(3082, 0, 2239656085504), IndirectObject(3085, 0, 2239656085504), IndirectObject(5306, 0, 2239656085504), IndirectObject(5307, 0, 2239656085504), IndirectObject(5308, 0, 2239656085504), IndirectObject(5309, 0, 2239656085504), IndirectObject(5310, 0, 2239656085504), IndirectObject(3096, 0, 2239656085504)], '/Parent': IndirectObject(5290, 0, 2239656085504), '/T': 'page_16'}",
+        "/TU": "SW",
+        "/V": "page 16 12"
+    },
+    "page_16_TotalRow2": {
+        "/T": "page_16_TotalRow2",
+        "/FT": "/Tx",
+        "/Parent": "{'/Kids': [IndirectObject(3060, 0, 2239656085504), IndirectObject(3058, 0, 2239656085504), IndirectObject(3064, 0, 2239656085504), IndirectObject(3065, 0, 2239656085504), IndirectObject(3066, 0, 2239656085504), IndirectObject(3061, 0, 2239656085504), IndirectObject(3071, 0, 2239656085504), IndirectObject(3069, 0, 2239656085504), IndirectObject(3068, 0, 2239656085504), IndirectObject(3070, 0, 2239656085504), IndirectObject(3077, 0, 2239656085504), IndirectObject(3076, 0, 2239656085504), IndirectObject(3078, 0, 2239656085504), IndirectObject(3074, 0, 2239656085504), IndirectObject(3079, 0, 2239656085504), IndirectObject(3081, 0, 2239656085504), IndirectObject(3086, 0, 2239656085504), IndirectObject(3083, 0, 2239656085504), IndirectObject(3082, 0, 2239656085504), IndirectObject(3085, 0, 2239656085504), IndirectObject(5306, 0, 2239656085504), IndirectObject(5307, 0, 2239656085504), IndirectObject(5308, 0, 2239656085504), IndirectObject(5309, 0, 2239656085504), IndirectObject(5310, 0, 2239656085504), IndirectObject(3096, 0, 2239656085504)], '/Parent': IndirectObject(5290, 0, 2239656085504), '/T': 'page_16'}",
+        "/TU": "Total Amount of Payment Received from Broker_SW",
+        "/Ff": "4096",
+        "/V": "page 16 17",
+        "/AA": "{'/F': IndirectObject(3102, 0, 2239656085504), '/K': IndirectObject(3103, 0, 2239656085504)}"
+    },
+    "page_16_BrokerRow3": {
+        "/T": "page_16_BrokerRow3",
+        "/FT": "/Tx",
+        "/Parent": "{'/Kids': [IndirectObject(3060, 0, 2239656085504), IndirectObject(3058, 0, 2239656085504), IndirectObject(3064, 0, 2239656085504), IndirectObject(3065, 0, 2239656085504), IndirectObject(3066, 0, 2239656085504), IndirectObject(3061, 0, 2239656085504), IndirectObject(3071, 0, 2239656085504), IndirectObject(3069, 0, 2239656085504), IndirectObject(3068, 0, 2239656085504), IndirectObject(3070, 0, 2239656085504), IndirectObject(3077, 0, 2239656085504), IndirectObject(3076, 0, 2239656085504), IndirectObject(3078, 0, 2239656085504), IndirectObject(3074, 0, 2239656085504), IndirectObject(3079, 0, 2239656085504), IndirectObject(3081, 0, 2239656085504), IndirectObject(3086, 0, 2239656085504), IndirectObject(3083, 0, 2239656085504), IndirectObject(3082, 0, 2239656085504), IndirectObject(3085, 0, 2239656085504), IndirectObject(5306, 0, 2239656085504), IndirectObject(5307, 0, 2239656085504), IndirectObject(5308, 0, 2239656085504), IndirectObject(5309, 0, 2239656085504), IndirectObject(5310, 0, 2239656085504), IndirectObject(3096, 0, 2239656085504)], '/Parent': IndirectObject(5290, 0, 2239656085504), '/T': 'page_16'}",
+        "/TU": "Name of Solid Waste Broker_Row_3",
+        "/Ff": "4096",
+        "/V": "page 16 3"
+    },
+    "page_16_ZipRow3": {
+        "/T": "page_16_ZipRow3",
+        "/FT": "/Tx",
+        "/Parent": "{'/Kids': [IndirectObject(3060, 0, 2239656085504), IndirectObject(3058, 0, 2239656085504), IndirectObject(3064, 0, 2239656085504), IndirectObject(3065, 0, 2239656085504), IndirectObject(3066, 0, 2239656085504), IndirectObject(3061, 0, 2239656085504), IndirectObject(3071, 0, 2239656085504), IndirectObject(3069, 0, 2239656085504), IndirectObject(3068, 0, 2239656085504), IndirectObject(3070, 0, 2239656085504), IndirectObject(3077, 0, 2239656085504), IndirectObject(3076, 0, 2239656085504), IndirectObject(3078, 0, 2239656085504), IndirectObject(3074, 0, 2239656085504), IndirectObject(3079, 0, 2239656085504), IndirectObject(3081, 0, 2239656085504), IndirectObject(3086, 0, 2239656085504), IndirectObject(3083, 0, 2239656085504), IndirectObject(3082, 0, 2239656085504), IndirectObject(3085, 0, 2239656085504), IndirectObject(5306, 0, 2239656085504), IndirectObject(5307, 0, 2239656085504), IndirectObject(5308, 0, 2239656085504), IndirectObject(5309, 0, 2239656085504), IndirectObject(5310, 0, 2239656085504), IndirectObject(3096, 0, 2239656085504)], '/Parent': IndirectObject(5290, 0, 2239656085504), '/T': 'page_16'}",
+        "/TU": "Address: Street, City, State and Zip_Row_3",
+        "/Ff": "4096",
+        "/V": "page 16 8"
+    },
+    "page_16_SWRow3": {
+        "/T": "page_16_SWRow3",
+        "/FT": "/Tx",
+        "/Parent": "{'/Kids': [IndirectObject(3060, 0, 2239656085504), IndirectObject(3058, 0, 2239656085504), IndirectObject(3064, 0, 2239656085504), IndirectObject(3065, 0, 2239656085504), IndirectObject(3066, 0, 2239656085504), IndirectObject(3061, 0, 2239656085504), IndirectObject(3071, 0, 2239656085504), IndirectObject(3069, 0, 2239656085504), IndirectObject(3068, 0, 2239656085504), IndirectObject(3070, 0, 2239656085504), IndirectObject(3077, 0, 2239656085504), IndirectObject(3076, 0, 2239656085504), IndirectObject(3078, 0, 2239656085504), IndirectObject(3074, 0, 2239656085504), IndirectObject(3079, 0, 2239656085504), IndirectObject(3081, 0, 2239656085504), IndirectObject(3086, 0, 2239656085504), IndirectObject(3083, 0, 2239656085504), IndirectObject(3082, 0, 2239656085504), IndirectObject(3085, 0, 2239656085504), IndirectObject(5306, 0, 2239656085504), IndirectObject(5307, 0, 2239656085504), IndirectObject(5308, 0, 2239656085504), IndirectObject(5309, 0, 2239656085504), IndirectObject(5310, 0, 2239656085504), IndirectObject(3096, 0, 2239656085504)], '/Parent': IndirectObject(5290, 0, 2239656085504), '/T': 'page_16'}",
+        "/TU": "SW",
+        "/V": "page 16 13"
+    },
+    "page_16_TotalRow3": {
+        "/T": "page_16_TotalRow3",
+        "/FT": "/Tx",
+        "/Parent": "{'/Kids': [IndirectObject(3060, 0, 2239656085504), IndirectObject(3058, 0, 2239656085504), IndirectObject(3064, 0, 2239656085504), IndirectObject(3065, 0, 2239656085504), IndirectObject(3066, 0, 2239656085504), IndirectObject(3061, 0, 2239656085504), IndirectObject(3071, 0, 2239656085504), IndirectObject(3069, 0, 2239656085504), IndirectObject(3068, 0, 2239656085504), IndirectObject(3070, 0, 2239656085504), IndirectObject(3077, 0, 2239656085504), IndirectObject(3076, 0, 2239656085504), IndirectObject(3078, 0, 2239656085504), IndirectObject(3074, 0, 2239656085504), IndirectObject(3079, 0, 2239656085504), IndirectObject(3081, 0, 2239656085504), IndirectObject(3086, 0, 2239656085504), IndirectObject(3083, 0, 2239656085504), IndirectObject(3082, 0, 2239656085504), IndirectObject(3085, 0, 2239656085504), IndirectObject(5306, 0, 2239656085504), IndirectObject(5307, 0, 2239656085504), IndirectObject(5308, 0, 2239656085504), IndirectObject(5309, 0, 2239656085504), IndirectObject(5310, 0, 2239656085504), IndirectObject(3096, 0, 2239656085504)], '/Parent': IndirectObject(5290, 0, 2239656085504), '/T': 'page_16'}",
+        "/TU": "Total Amount of Payment Received from Broker_SW",
+        "/Ff": "4096",
+        "/V": "page 16 18",
+        "/AA": "{'/F': IndirectObject(3101, 0, 2239656085504), '/K': IndirectObject(3104, 0, 2239656085504)}"
+    },
+    "page_16_BrokerRow4": {
+        "/T": "page_16_BrokerRow4",
+        "/FT": "/Tx",
+        "/Parent": "{'/Kids': [IndirectObject(3060, 0, 2239656085504), IndirectObject(3058, 0, 2239656085504), IndirectObject(3064, 0, 2239656085504), IndirectObject(3065, 0, 2239656085504), IndirectObject(3066, 0, 2239656085504), IndirectObject(3061, 0, 2239656085504), IndirectObject(3071, 0, 2239656085504), IndirectObject(3069, 0, 2239656085504), IndirectObject(3068, 0, 2239656085504), IndirectObject(3070, 0, 2239656085504), IndirectObject(3077, 0, 2239656085504), IndirectObject(3076, 0, 2239656085504), IndirectObject(3078, 0, 2239656085504), IndirectObject(3074, 0, 2239656085504), IndirectObject(3079, 0, 2239656085504), IndirectObject(3081, 0, 2239656085504), IndirectObject(3086, 0, 2239656085504), IndirectObject(3083, 0, 2239656085504), IndirectObject(3082, 0, 2239656085504), IndirectObject(3085, 0, 2239656085504), IndirectObject(5306, 0, 2239656085504), IndirectObject(5307, 0, 2239656085504), IndirectObject(5308, 0, 2239656085504), IndirectObject(5309, 0, 2239656085504), IndirectObject(5310, 0, 2239656085504), IndirectObject(3096, 0, 2239656085504)], '/Parent': IndirectObject(5290, 0, 2239656085504), '/T': 'page_16'}",
+        "/TU": "Name of Solid Waste Broker_Row_4",
+        "/Ff": "4096",
+        "/V": "page 16 4"
+    },
+    "page_16_ZipRow4": {
+        "/T": "page_16_ZipRow4",
+        "/FT": "/Tx",
+        "/Parent": "{'/Kids': [IndirectObject(3060, 0, 2239656085504), IndirectObject(3058, 0, 2239656085504), IndirectObject(3064, 0, 2239656085504), IndirectObject(3065, 0, 2239656085504), IndirectObject(3066, 0, 2239656085504), IndirectObject(3061, 0, 2239656085504), IndirectObject(3071, 0, 2239656085504), IndirectObject(3069, 0, 2239656085504), IndirectObject(3068, 0, 2239656085504), IndirectObject(3070, 0, 2239656085504), IndirectObject(3077, 0, 2239656085504), IndirectObject(3076, 0, 2239656085504), IndirectObject(3078, 0, 2239656085504), IndirectObject(3074, 0, 2239656085504), IndirectObject(3079, 0, 2239656085504), IndirectObject(3081, 0, 2239656085504), IndirectObject(3086, 0, 2239656085504), IndirectObject(3083, 0, 2239656085504), IndirectObject(3082, 0, 2239656085504), IndirectObject(3085, 0, 2239656085504), IndirectObject(5306, 0, 2239656085504), IndirectObject(5307, 0, 2239656085504), IndirectObject(5308, 0, 2239656085504), IndirectObject(5309, 0, 2239656085504), IndirectObject(5310, 0, 2239656085504), IndirectObject(3096, 0, 2239656085504)], '/Parent': IndirectObject(5290, 0, 2239656085504), '/T': 'page_16'}",
+        "/TU": "Address: Street, City, State and Zip_Row_4",
+        "/Ff": "4096",
+        "/V": "page 16 9"
+    },
+    "page_16_SWRow4": {
+        "/T": "page_16_SWRow4",
+        "/FT": "/Tx",
+        "/Parent": "{'/Kids': [IndirectObject(3060, 0, 2239656085504), IndirectObject(3058, 0, 2239656085504), IndirectObject(3064, 0, 2239656085504), IndirectObject(3065, 0, 2239656085504), IndirectObject(3066, 0, 2239656085504), IndirectObject(3061, 0, 2239656085504), IndirectObject(3071, 0, 2239656085504), IndirectObject(3069, 0, 2239656085504), IndirectObject(3068, 0, 2239656085504), IndirectObject(3070, 0, 2239656085504), IndirectObject(3077, 0, 2239656085504), IndirectObject(3076, 0, 2239656085504), IndirectObject(3078, 0, 2239656085504), IndirectObject(3074, 0, 2239656085504), IndirectObject(3079, 0, 2239656085504), IndirectObject(3081, 0, 2239656085504), IndirectObject(3086, 0, 2239656085504), IndirectObject(3083, 0, 2239656085504), IndirectObject(3082, 0, 2239656085504), IndirectObject(3085, 0, 2239656085504), IndirectObject(5306, 0, 2239656085504), IndirectObject(5307, 0, 2239656085504), IndirectObject(5308, 0, 2239656085504), IndirectObject(5309, 0, 2239656085504), IndirectObject(5310, 0, 2239656085504), IndirectObject(3096, 0, 2239656085504)], '/Parent': IndirectObject(5290, 0, 2239656085504), '/T': 'page_16'}",
+        "/TU": "SW",
+        "/V": "page 16 14"
+    },
+    "page_16_TotalRow4": {
+        "/T": "page_16_TotalRow4",
+        "/FT": "/Tx",
+        "/Parent": "{'/Kids': [IndirectObject(3060, 0, 2239656085504), IndirectObject(3058, 0, 2239656085504), IndirectObject(3064, 0, 2239656085504), IndirectObject(3065, 0, 2239656085504), IndirectObject(3066, 0, 2239656085504), IndirectObject(3061, 0, 2239656085504), IndirectObject(3071, 0, 2239656085504), IndirectObject(3069, 0, 2239656085504), IndirectObject(3068, 0, 2239656085504), IndirectObject(3070, 0, 2239656085504), IndirectObject(3077, 0, 2239656085504), IndirectObject(3076, 0, 2239656085504), IndirectObject(3078, 0, 2239656085504), IndirectObject(3074, 0, 2239656085504), IndirectObject(3079, 0, 2239656085504), IndirectObject(3081, 0, 2239656085504), IndirectObject(3086, 0, 2239656085504), IndirectObject(3083, 0, 2239656085504), IndirectObject(3082, 0, 2239656085504), IndirectObject(3085, 0, 2239656085504), IndirectObject(5306, 0, 2239656085504), IndirectObject(5307, 0, 2239656085504), IndirectObject(5308, 0, 2239656085504), IndirectObject(5309, 0, 2239656085504), IndirectObject(5310, 0, 2239656085504), IndirectObject(3096, 0, 2239656085504)], '/Parent': IndirectObject(5290, 0, 2239656085504), '/T': 'page_16'}",
+        "/TU": "Total Amount of Payment Received from Broker_SW",
+        "/Ff": "4096",
+        "/V": "page 16 19",
+        "/AA": "{'/F': IndirectObject(3105, 0, 2239656085504), '/K': IndirectObject(3106, 0, 2239656085504)}"
+    },
+    "page_16_BrokerRow5": {
+        "/T": "page_16_BrokerRow5",
+        "/FT": "/Tx",
+        "/Parent": "{'/Kids': [IndirectObject(3060, 0, 2239656085504), IndirectObject(3058, 0, 2239656085504), IndirectObject(3064, 0, 2239656085504), IndirectObject(3065, 0, 2239656085504), IndirectObject(3066, 0, 2239656085504), IndirectObject(3061, 0, 2239656085504), IndirectObject(3071, 0, 2239656085504), IndirectObject(3069, 0, 2239656085504), IndirectObject(3068, 0, 2239656085504), IndirectObject(3070, 0, 2239656085504), IndirectObject(3077, 0, 2239656085504), IndirectObject(3076, 0, 2239656085504), IndirectObject(3078, 0, 2239656085504), IndirectObject(3074, 0, 2239656085504), IndirectObject(3079, 0, 2239656085504), IndirectObject(3081, 0, 2239656085504), IndirectObject(3086, 0, 2239656085504), IndirectObject(3083, 0, 2239656085504), IndirectObject(3082, 0, 2239656085504), IndirectObject(3085, 0, 2239656085504), IndirectObject(5306, 0, 2239656085504), IndirectObject(5307, 0, 2239656085504), IndirectObject(5308, 0, 2239656085504), IndirectObject(5309, 0, 2239656085504), IndirectObject(5310, 0, 2239656085504), IndirectObject(3096, 0, 2239656085504)], '/Parent': IndirectObject(5290, 0, 2239656085504), '/T': 'page_16'}",
+        "/TU": "Name of Solid Waste Broker_Row_5",
+        "/Ff": "4096",
+        "/V": "page 16 5"
+    },
+    "page_16_ZipRow5": {
+        "/T": "page_16_ZipRow5",
+        "/FT": "/Tx",
+        "/Parent": "{'/Kids': [IndirectObject(3060, 0, 2239656085504), IndirectObject(3058, 0, 2239656085504), IndirectObject(3064, 0, 2239656085504), IndirectObject(3065, 0, 2239656085504), IndirectObject(3066, 0, 2239656085504), IndirectObject(3061, 0, 2239656085504), IndirectObject(3071, 0, 2239656085504), IndirectObject(3069, 0, 2239656085504), IndirectObject(3068, 0, 2239656085504), IndirectObject(3070, 0, 2239656085504), IndirectObject(3077, 0, 2239656085504), IndirectObject(3076, 0, 2239656085504), IndirectObject(3078, 0, 2239656085504), IndirectObject(3074, 0, 2239656085504), IndirectObject(3079, 0, 2239656085504), IndirectObject(3081, 0, 2239656085504), IndirectObject(3086, 0, 2239656085504), IndirectObject(3083, 0, 2239656085504), IndirectObject(3082, 0, 2239656085504), IndirectObject(3085, 0, 2239656085504), IndirectObject(5306, 0, 2239656085504), IndirectObject(5307, 0, 2239656085504), IndirectObject(5308, 0, 2239656085504), IndirectObject(5309, 0, 2239656085504), IndirectObject(5310, 0, 2239656085504), IndirectObject(3096, 0, 2239656085504)], '/Parent': IndirectObject(5290, 0, 2239656085504), '/T': 'page_16'}",
+        "/TU": "Address: Street, City, State and Zip_Row_5",
+        "/Ff": "4096",
+        "/V": "page 16 10"
+    },
+    "page_16_SWRow5": {
+        "/T": "page_16_SWRow5",
+        "/FT": "/Tx",
+        "/Parent": "{'/Kids': [IndirectObject(3060, 0, 2239656085504), IndirectObject(3058, 0, 2239656085504), IndirectObject(3064, 0, 2239656085504), IndirectObject(3065, 0, 2239656085504), IndirectObject(3066, 0, 2239656085504), IndirectObject(3061, 0, 2239656085504), IndirectObject(3071, 0, 2239656085504), IndirectObject(3069, 0, 2239656085504), IndirectObject(3068, 0, 2239656085504), IndirectObject(3070, 0, 2239656085504), IndirectObject(3077, 0, 2239656085504), IndirectObject(3076, 0, 2239656085504), IndirectObject(3078, 0, 2239656085504), IndirectObject(3074, 0, 2239656085504), IndirectObject(3079, 0, 2239656085504), IndirectObject(3081, 0, 2239656085504), IndirectObject(3086, 0, 2239656085504), IndirectObject(3083, 0, 2239656085504), IndirectObject(3082, 0, 2239656085504), IndirectObject(3085, 0, 2239656085504), IndirectObject(5306, 0, 2239656085504), IndirectObject(5307, 0, 2239656085504), IndirectObject(5308, 0, 2239656085504), IndirectObject(5309, 0, 2239656085504), IndirectObject(5310, 0, 2239656085504), IndirectObject(3096, 0, 2239656085504)], '/Parent': IndirectObject(5290, 0, 2239656085504), '/T': 'page_16'}",
+        "/TU": "SW",
+        "/V": "page 16 15"
+    },
+    "page_16_TotalRow5": {
+        "/T": "page_16_TotalRow5",
+        "/FT": "/Tx",
+        "/Parent": "{'/Kids': [IndirectObject(3060, 0, 2239656085504), IndirectObject(3058, 0, 2239656085504), IndirectObject(3064, 0, 2239656085504), IndirectObject(3065, 0, 2239656085504), IndirectObject(3066, 0, 2239656085504), IndirectObject(3061, 0, 2239656085504), IndirectObject(3071, 0, 2239656085504), IndirectObject(3069, 0, 2239656085504), IndirectObject(3068, 0, 2239656085504), IndirectObject(3070, 0, 2239656085504), IndirectObject(3077, 0, 2239656085504), IndirectObject(3076, 0, 2239656085504), IndirectObject(3078, 0, 2239656085504), IndirectObject(3074, 0, 2239656085504), IndirectObject(3079, 0, 2239656085504), IndirectObject(3081, 0, 2239656085504), IndirectObject(3086, 0, 2239656085504), IndirectObject(3083, 0, 2239656085504), IndirectObject(3082, 0, 2239656085504), IndirectObject(3085, 0, 2239656085504), IndirectObject(5306, 0, 2239656085504), IndirectObject(5307, 0, 2239656085504), IndirectObject(5308, 0, 2239656085504), IndirectObject(5309, 0, 2239656085504), IndirectObject(5310, 0, 2239656085504), IndirectObject(3096, 0, 2239656085504)], '/Parent': IndirectObject(5290, 0, 2239656085504), '/T': 'page_16'}",
+        "/TU": "Total Amount of Payment Received from Broker_SW",
+        "/Ff": "4096",
+        "/V": "page 16 20",
+        "/AA": "{'/F': IndirectObject(3107, 0, 2239656085504), '/K': IndirectObject(3109, 0, 2239656085504)}"
+    },
+    "page_16_Row1Rg": {
+        "/T": "page_16_Row1Rg",
+        "/FT": "/Btn",
+        "/Parent": "{'/Kids': [IndirectObject(3060, 0, 2239656085504), IndirectObject(3058, 0, 2239656085504), IndirectObject(3064, 0, 2239656085504), IndirectObject(3065, 0, 2239656085504), IndirectObject(3066, 0, 2239656085504), IndirectObject(3061, 0, 2239656085504), IndirectObject(3071, 0, 2239656085504), IndirectObject(3069, 0, 2239656085504), IndirectObject(3068, 0, 2239656085504), IndirectObject(3070, 0, 2239656085504), IndirectObject(3077, 0, 2239656085504), IndirectObject(3076, 0, 2239656085504), IndirectObject(3078, 0, 2239656085504), IndirectObject(3074, 0, 2239656085504), IndirectObject(3079, 0, 2239656085504), IndirectObject(3081, 0, 2239656085504), IndirectObject(3086, 0, 2239656085504), IndirectObject(3083, 0, 2239656085504), IndirectObject(3082, 0, 2239656085504), IndirectObject(3085, 0, 2239656085504), IndirectObject(5306, 0, 2239656085504), IndirectObject(5307, 0, 2239656085504), IndirectObject(5308, 0, 2239656085504), IndirectObject(5309, 0, 2239656085504), IndirectObject(5310, 0, 2239656085504), IndirectObject(3096, 0, 2239656085504)], '/Parent': IndirectObject(5290, 0, 2239656085504), '/T': 'page_16'}",
+        "/TU": "DID YOUR COMPANY USE A SOLID WASTE BROKER SERVICE",
+        "/Ff": "49152",
+        "/V": "/page_16_Row1Yes",
+        "/Kids": "[IndirectObject(3062, 0, 2239656085504), IndirectObject(3056, 0, 2239656085504)]"
+    },
+    "page_16_Row2Rg": {
+        "/T": "page_16_Row2Rg",
+        "/FT": "/Btn",
+        "/Parent": "{'/Kids': [IndirectObject(3060, 0, 2239656085504), IndirectObject(3058, 0, 2239656085504), IndirectObject(3064, 0, 2239656085504), IndirectObject(3065, 0, 2239656085504), IndirectObject(3066, 0, 2239656085504), IndirectObject(3061, 0, 2239656085504), IndirectObject(3071, 0, 2239656085504), IndirectObject(3069, 0, 2239656085504), IndirectObject(3068, 0, 2239656085504), IndirectObject(3070, 0, 2239656085504), IndirectObject(3077, 0, 2239656085504), IndirectObject(3076, 0, 2239656085504), IndirectObject(3078, 0, 2239656085504), IndirectObject(3074, 0, 2239656085504), IndirectObject(3079, 0, 2239656085504), IndirectObject(3081, 0, 2239656085504), IndirectObject(3086, 0, 2239656085504), IndirectObject(3083, 0, 2239656085504), IndirectObject(3082, 0, 2239656085504), IndirectObject(3085, 0, 2239656085504), IndirectObject(5306, 0, 2239656085504), IndirectObject(5307, 0, 2239656085504), IndirectObject(5308, 0, 2239656085504), IndirectObject(5309, 0, 2239656085504), IndirectObject(5310, 0, 2239656085504), IndirectObject(3096, 0, 2239656085504)], '/Parent': IndirectObject(5290, 0, 2239656085504), '/T': 'page_16'}",
+        "/TU": "DID YOUR COMPANY USE A SOLID WASTE BROKER SERVICE",
+        "/Ff": "49152",
+        "/V": "/page_16_Row2Yes",
+        "/Kids": "[IndirectObject(3067, 0, 2239656085504), IndirectObject(3063, 0, 2239656085504)]"
+    },
+    "page_16_Row3Rg": {
+        "/T": "page_16_Row3Rg",
+        "/FT": "/Btn",
+        "/Parent": "{'/Kids': [IndirectObject(3060, 0, 2239656085504), IndirectObject(3058, 0, 2239656085504), IndirectObject(3064, 0, 2239656085504), IndirectObject(3065, 0, 2239656085504), IndirectObject(3066, 0, 2239656085504), IndirectObject(3061, 0, 2239656085504), IndirectObject(3071, 0, 2239656085504), IndirectObject(3069, 0, 2239656085504), IndirectObject(3068, 0, 2239656085504), IndirectObject(3070, 0, 2239656085504), IndirectObject(3077, 0, 2239656085504), IndirectObject(3076, 0, 2239656085504), IndirectObject(3078, 0, 2239656085504), IndirectObject(3074, 0, 2239656085504), IndirectObject(3079, 0, 2239656085504), IndirectObject(3081, 0, 2239656085504), IndirectObject(3086, 0, 2239656085504), IndirectObject(3083, 0, 2239656085504), IndirectObject(3082, 0, 2239656085504), IndirectObject(3085, 0, 2239656085504), IndirectObject(5306, 0, 2239656085504), IndirectObject(5307, 0, 2239656085504), IndirectObject(5308, 0, 2239656085504), IndirectObject(5309, 0, 2239656085504), IndirectObject(5310, 0, 2239656085504), IndirectObject(3096, 0, 2239656085504)], '/Parent': IndirectObject(5290, 0, 2239656085504), '/T': 'page_16'}",
+        "/TU": "DID YOUR COMPANY USE A SOLID WASTE BROKER SERVICE",
+        "/Ff": "49152",
+        "/V": "/page_16_Row3No",
+        "/Kids": "[IndirectObject(3073, 0, 2239656085504), IndirectObject(3072, 0, 2239656085504)]"
+    },
+    "page_16_Row4Rg": {
+        "/T": "page_16_Row4Rg",
+        "/FT": "/Btn",
+        "/Parent": "{'/Kids': [IndirectObject(3060, 0, 2239656085504), IndirectObject(3058, 0, 2239656085504), IndirectObject(3064, 0, 2239656085504), IndirectObject(3065, 0, 2239656085504), IndirectObject(3066, 0, 2239656085504), IndirectObject(3061, 0, 2239656085504), IndirectObject(3071, 0, 2239656085504), IndirectObject(3069, 0, 2239656085504), IndirectObject(3068, 0, 2239656085504), IndirectObject(3070, 0, 2239656085504), IndirectObject(3077, 0, 2239656085504), IndirectObject(3076, 0, 2239656085504), IndirectObject(3078, 0, 2239656085504), IndirectObject(3074, 0, 2239656085504), IndirectObject(3079, 0, 2239656085504), IndirectObject(3081, 0, 2239656085504), IndirectObject(3086, 0, 2239656085504), IndirectObject(3083, 0, 2239656085504), IndirectObject(3082, 0, 2239656085504), IndirectObject(3085, 0, 2239656085504), IndirectObject(5306, 0, 2239656085504), IndirectObject(5307, 0, 2239656085504), IndirectObject(5308, 0, 2239656085504), IndirectObject(5309, 0, 2239656085504), IndirectObject(5310, 0, 2239656085504), IndirectObject(3096, 0, 2239656085504)], '/Parent': IndirectObject(5290, 0, 2239656085504), '/T': 'page_16'}",
+        "/TU": "DID YOUR COMPANY USE A SOLID WASTE BROKER SERVICE",
+        "/Ff": "49152",
+        "/V": "/page_16_Row4No",
+        "/Kids": "[IndirectObject(3080, 0, 2239656085504), IndirectObject(3075, 0, 2239656085504)]"
+    },
+    "page_16_Row5Rg": {
+        "/T": "page_16_Row5Rg",
+        "/FT": "/Btn",
+        "/Parent": "{'/Kids': [IndirectObject(3060, 0, 2239656085504), IndirectObject(3058, 0, 2239656085504), IndirectObject(3064, 0, 2239656085504), IndirectObject(3065, 0, 2239656085504), IndirectObject(3066, 0, 2239656085504), IndirectObject(3061, 0, 2239656085504), IndirectObject(3071, 0, 2239656085504), IndirectObject(3069, 0, 2239656085504), IndirectObject(3068, 0, 2239656085504), IndirectObject(3070, 0, 2239656085504), IndirectObject(3077, 0, 2239656085504), IndirectObject(3076, 0, 2239656085504), IndirectObject(3078, 0, 2239656085504), IndirectObject(3074, 0, 2239656085504), IndirectObject(3079, 0, 2239656085504), IndirectObject(3081, 0, 2239656085504), IndirectObject(3086, 0, 2239656085504), IndirectObject(3083, 0, 2239656085504), IndirectObject(3082, 0, 2239656085504), IndirectObject(3085, 0, 2239656085504), IndirectObject(5306, 0, 2239656085504), IndirectObject(5307, 0, 2239656085504), IndirectObject(5308, 0, 2239656085504), IndirectObject(5309, 0, 2239656085504), IndirectObject(5310, 0, 2239656085504), IndirectObject(3096, 0, 2239656085504)], '/Parent': IndirectObject(5290, 0, 2239656085504), '/T': 'page_16'}",
+        "/TU": "DID YOUR COMPANY USE A SOLID WASTE BROKER SERVICE",
+        "/Ff": "49152",
+        "/V": "/page_16_Row5No",
+        "/Kids": "[IndirectObject(3087, 0, 2239656085504), IndirectObject(3084, 0, 2239656085504)]"
+    },
+    "page_16_duplicatePage": {
+        "/T": "page_16_duplicatePage",
+        "/FT": "/Btn",
+        "/Parent": "{'/Kids': [IndirectObject(3060, 0, 2239656085504), IndirectObject(3058, 0, 2239656085504), IndirectObject(3064, 0, 2239656085504), IndirectObject(3065, 0, 2239656085504), IndirectObject(3066, 0, 2239656085504), IndirectObject(3061, 0, 2239656085504), IndirectObject(3071, 0, 2239656085504), IndirectObject(3069, 0, 2239656085504), IndirectObject(3068, 0, 2239656085504), IndirectObject(3070, 0, 2239656085504), IndirectObject(3077, 0, 2239656085504), IndirectObject(3076, 0, 2239656085504), IndirectObject(3078, 0, 2239656085504), IndirectObject(3074, 0, 2239656085504), IndirectObject(3079, 0, 2239656085504), IndirectObject(3081, 0, 2239656085504), IndirectObject(3086, 0, 2239656085504), IndirectObject(3083, 0, 2239656085504), IndirectObject(3082, 0, 2239656085504), IndirectObject(3085, 0, 2239656085504), IndirectObject(5306, 0, 2239656085504), IndirectObject(5307, 0, 2239656085504), IndirectObject(5308, 0, 2239656085504), IndirectObject(5309, 0, 2239656085504), IndirectObject(5310, 0, 2239656085504), IndirectObject(3096, 0, 2239656085504)], '/Parent': IndirectObject(5290, 0, 2239656085504), '/T': 'page_16'}",
+        "/TU": "Duplicate",
+        "/Ff": "65536"
+    },
+    "page_16": {
+        "/T": "page_16",
+        "/Parent": "{'/Kids': [IndirectObject(5305, 0, 2239656085504)], '/T': 'P15'}",
+        "/Kids": "[IndirectObject(3060, 0, 2239656085504), IndirectObject(3058, 0, 2239656085504), IndirectObject(3064, 0, 2239656085504), IndirectObject(3065, 0, 2239656085504), IndirectObject(3066, 0, 2239656085504), IndirectObject(3061, 0, 2239656085504), IndirectObject(3071, 0, 2239656085504), IndirectObject(3069, 0, 2239656085504), IndirectObject(3068, 0, 2239656085504), IndirectObject(3070, 0, 2239656085504), IndirectObject(3077, 0, 2239656085504), IndirectObject(3076, 0, 2239656085504), IndirectObject(3078, 0, 2239656085504), IndirectObject(3074, 0, 2239656085504), IndirectObject(3079, 0, 2239656085504), IndirectObject(3081, 0, 2239656085504), IndirectObject(3086, 0, 2239656085504), IndirectObject(3083, 0, 2239656085504), IndirectObject(3082, 0, 2239656085504), IndirectObject(3085, 0, 2239656085504), IndirectObject(5306, 0, 2239656085504), IndirectObject(5307, 0, 2239656085504), IndirectObject(5308, 0, 2239656085504), IndirectObject(5309, 0, 2239656085504), IndirectObject(5310, 0, 2239656085504), IndirectObject(3096, 0, 2239656085504)]"
+    }
+}

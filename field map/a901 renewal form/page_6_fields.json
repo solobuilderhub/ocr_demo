@@ -1,0 +1,85 @@
+{
+    "pg6_Member": {
+        "/T": "pg6_Member",
+        "/FT": "/Tx",
+        "/TU": "NAME OF MEMBER"
+    },
+    "pg6_SS": {
+        "/T": "pg6_SS",
+        "/FT": "/Tx",
+        "/TU": "SS",
+        "/AA": "{'/F': IndirectObject(1561, 0, 2857086470240), '/K': IndirectObject(1562, 0, 2857086470240)}"
+    },
+    "pg6_DOB": {
+        "/T": "pg6_DOB",
+        "/FT": "/Tx",
+        "/AA": "{'/F': IndirectObject(1559, 0, 2857086470240), '/K': IndirectObject(1560, 0, 2857086470240)}"
+    },
+    "pg6_Title": {
+        "/T": "pg6_Title",
+        "/FT": "/Tx",
+        "/TU": "JOB TITLE"
+    },
+    "pg6_Date": {
+        "/T": "pg6_Date",
+        "/FT": "/Tx",
+        "/AA": "{'/F': IndirectObject(1557, 0, 2857086470240), '/K': IndirectObject(1558, 0, 2857086470240)}"
+    },
+    "pg6_Interest": {
+        "/T": "pg6_Interest",
+        "/FT": "/Tx",
+        "/TU": "OF INTEREST",
+        "/AA": "{'/F': IndirectObject(1555, 0, 2857086470240), '/K': IndirectObject(1556, 0, 2857086470240)}"
+    },
+    "pg6_Debt": {
+        "/T": "pg6_Debt",
+        "/FT": "/Tx",
+        "/TU": "DATE OF DEBT"
+    },
+    "pg6_SS_2": {
+        "/T": "pg6_SS_2",
+        "/FT": "/Tx",
+        "/TU": "SS",
+        "/AA": "{'/F': IndirectObject(1553, 0, 2857086470240), '/K': IndirectObject(1554, 0, 2857086470240)}"
+    },
+    "pg6_Amount": {
+        "/T": "pg6_Amount",
+        "/FT": "/Tx",
+        "/TU": "BALANCE OF AMOUNT OWED",
+        "/AA": "{'/F': IndirectObject(1551, 0, 2857086470240), '/K': IndirectObject(1552, 0, 2857086470240)}"
+    },
+    "pg6_FEID": {
+        "/T": "pg6_FEID",
+        "/FT": "/Tx",
+        "/TU": "FEID",
+        "/AA": "{'/K': IndirectObject(1550, 0, 2857086470240)}"
+    },
+    "pg6_StartDebt": {
+        "/T": "pg6_StartDebt",
+        "/FT": "/Tx",
+        "/AA": "{'/F': IndirectObject(1548, 0, 2857086470240), '/K': IndirectObject(1549, 0, 2857086470240)}"
+    },
+    "pg6_EndDebt": {
+        "/T": "pg6_EndDebt",
+        "/FT": "/Tx",
+        "/AA": "{'/F': IndirectObject(1546, 0, 2857086470240), '/K': IndirectObject(1547, 0, 2857086470240)}"
+    },
+    "pg6_Interest2": {
+        "/T": "pg6_Interest2",
+        "/FT": "/Tx",
+        "/TU": "OF INTEREST",
+        "/AA": "{'/F': IndirectObject(1544, 0, 2857086470240), '/K': IndirectObject(1545, 0, 2857086470240)}"
+    },
+    "pg6_DOB_2": {
+        "/T": "pg6_DOB_2",
+        "/FT": "/Tx",
+        "/AA": "{'/F': IndirectObject(1355, 0, 2857086470240), '/K': IndirectObject(1356, 0, 2857086470240)}"
+    },
+    "pg6_duplicate": {
+        "/T": "pg6_duplicate",
+        "/FT": "/Btn",
+        "/TU": "Duplicate",
+        "/Ff": "65536",
+        "/Kids": "[IndirectObject(711, 0, 2857086470240), IndirectObject(1353, 0, 2857086470240)]"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "pg14_Consent": {
+        "/T": "pg14_Consent",
+        "/FT": "/Tx",
+        "/TU": "HEREBY CERTIFY THAT I HAVE READ THE NOTICE ON THIS PAGE AND I CONSENT TO THE DISCLOSURE OF MY",
+        "/V": "page 14 name"
+    },
+    "pg14_SIGNATURE": {
+        "/T": "pg14_SIGNATURE",
+        "/FT": "/Sig",
+        "/TU": "SIGNATURE"
+    },
+    "pg14_PRINTEDNAME": {
+        "/T": "pg14_PRINTEDNAME",
+        "/FT": "/Tx",
+        "/TU": "PRINTED NAME",
+        "/V": "page 14 sig name"
+    },
+    "pg14_Date": {
+        "/T": "pg14_Date",
+        "/FT": "/Tx",
+        "/V": "page 14 date",
+        "/AA": "{'/F': IndirectObject(1062, 0, 2857086470240), '/K': IndirectObject(1065, 0, 2857086470240)}"
+    }
+}

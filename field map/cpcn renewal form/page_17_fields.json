@@ -1,0 +1,164 @@
+{
+    "page_17_ADDRESSRow1": {
+        "/T": "page_17_ADDRESSRow1",
+        "/FT": "/Tx",
+        "/Parent": "{'/Kids': [IndirectObject(3114, 0, 2239656085504), IndirectObject(3110, 0, 2239656085504), IndirectObject(3111, 0, 2239656085504), IndirectObject(3115, 0, 2239656085504), IndirectObject(3131, 0, 2239656085504), IndirectObject(3132, 0, 2239656085504), IndirectObject(3130, 0, 2239656085504), IndirectObject(3122, 0, 2239656085504), IndirectObject(3128, 0, 2239656085504), IndirectObject(3126, 0, 2239656085504), IndirectObject(3116, 0, 2239656085504), IndirectObject(3124, 0, 2239656085504), IndirectObject(3119, 0, 2239656085504), IndirectObject(3120, 0, 2239656085504), IndirectObject(3133, 0, 2239656085504), IndirectObject(3134, 0, 2239656085504), IndirectObject(3121, 0, 2239656085504), IndirectObject(3117, 0, 2239656085504), IndirectObject(3118, 0, 2239656085504)], '/Parent': IndirectObject(5291, 0, 2239656085504), '/T': 'page_17'}",
+        "/TU": "COMPANY NAME AND ADDRESS_Row_1",
+        "/Ff": "4096",
+        "/V": "page 17 1"
+    },
+    "page_17_PERFORMSRow1": {
+        "/T": "page_17_PERFORMSRow1",
+        "/FT": "/Tx",
+        "/Parent": "{'/Kids': [IndirectObject(3114, 0, 2239656085504), IndirectObject(3110, 0, 2239656085504), IndirectObject(3111, 0, 2239656085504), IndirectObject(3115, 0, 2239656085504), IndirectObject(3131, 0, 2239656085504), IndirectObject(3132, 0, 2239656085504), IndirectObject(3130, 0, 2239656085504), IndirectObject(3122, 0, 2239656085504), IndirectObject(3128, 0, 2239656085504), IndirectObject(3126, 0, 2239656085504), IndirectObject(3116, 0, 2239656085504), IndirectObject(3124, 0, 2239656085504), IndirectObject(3119, 0, 2239656085504), IndirectObject(3120, 0, 2239656085504), IndirectObject(3133, 0, 2239656085504), IndirectObject(3134, 0, 2239656085504), IndirectObject(3121, 0, 2239656085504), IndirectObject(3117, 0, 2239656085504), IndirectObject(3118, 0, 2239656085504)], '/Parent': IndirectObject(5291, 0, 2239656085504), '/T': 'page_17'}",
+        "/TU": "TYPE OF SERVICE RELATED COMPANY PERFORMS_Row_1",
+        "/Ff": "4096",
+        "/V": "page 17 7"
+    },
+    "page_17_2016Row1": {
+        "/T": "page_17_2016Row1",
+        "/FT": "/Tx",
+        "/Parent": "{'/Kids': [IndirectObject(3114, 0, 2239656085504), IndirectObject(3110, 0, 2239656085504), IndirectObject(3111, 0, 2239656085504), IndirectObject(3115, 0, 2239656085504), IndirectObject(3131, 0, 2239656085504), IndirectObject(3132, 0, 2239656085504), IndirectObject(3130, 0, 2239656085504), IndirectObject(3122, 0, 2239656085504), IndirectObject(3128, 0, 2239656085504), IndirectObject(3126, 0, 2239656085504), IndirectObject(3116, 0, 2239656085504), IndirectObject(3124, 0, 2239656085504), IndirectObject(3119, 0, 2239656085504), IndirectObject(3120, 0, 2239656085504), IndirectObject(3133, 0, 2239656085504), IndirectObject(3134, 0, 2239656085504), IndirectObject(3121, 0, 2239656085504), IndirectObject(3117, 0, 2239656085504), IndirectObject(3118, 0, 2239656085504)], '/Parent': IndirectObject(5291, 0, 2239656085504), '/T': 'page_17'}",
+        "/TU": "TOTAL FEE PAID TO RELATED COMPANY DURING 2016_Row_1",
+        "/Ff": "4096",
+        "/V": "page 17 13",
+        "/AA": "{'/F': IndirectObject(3123, 0, 2239656085504), '/K': IndirectObject(3125, 0, 2239656085504)}"
+    },
+    "page_17_ADDRESSRow2": {
+        "/T": "page_17_ADDRESSRow2",
+        "/FT": "/Tx",
+        "/Parent": "{'/Kids': [IndirectObject(3114, 0, 2239656085504), IndirectObject(3110, 0, 2239656085504), IndirectObject(3111, 0, 2239656085504), IndirectObject(3115, 0, 2239656085504), IndirectObject(3131, 0, 2239656085504), IndirectObject(3132, 0, 2239656085504), IndirectObject(3130, 0, 2239656085504), IndirectObject(3122, 0, 2239656085504), IndirectObject(3128, 0, 2239656085504), IndirectObject(3126, 0, 2239656085504), IndirectObject(3116, 0, 2239656085504), IndirectObject(3124, 0, 2239656085504), IndirectObject(3119, 0, 2239656085504), IndirectObject(3120, 0, 2239656085504), IndirectObject(3133, 0, 2239656085504), IndirectObject(3134, 0, 2239656085504), IndirectObject(3121, 0, 2239656085504), IndirectObject(3117, 0, 2239656085504), IndirectObject(3118, 0, 2239656085504)], '/Parent': IndirectObject(5291, 0, 2239656085504), '/T': 'page_17'}",
+        "/TU": "COMPANY NAME AND ADDRESS_Row_2",
+        "/Ff": "4096",
+        "/V": "page 17 2"
+    },
+    "page_17_PERFORMSRow2": {
+        "/T": "page_17_PERFORMSRow2",
+        "/FT": "/Tx",
+        "/Parent": "{'/Kids': [IndirectObject(3114, 0, 2239656085504), IndirectObject(3110, 0, 2239656085504), IndirectObject(3111, 0, 2239656085504), IndirectObject(3115, 0, 2239656085504), IndirectObject(3131, 0, 2239656085504), IndirectObject(3132, 0, 2239656085504), IndirectObject(3130, 0, 2239656085504), IndirectObject(3122, 0, 2239656085504), IndirectObject(3128, 0, 2239656085504), IndirectObject(3126, 0, 2239656085504), IndirectObject(3116, 0, 2239656085504), IndirectObject(3124, 0, 2239656085504), IndirectObject(3119, 0, 2239656085504), IndirectObject(3120, 0, 2239656085504), IndirectObject(3133, 0, 2239656085504), IndirectObject(3134, 0, 2239656085504), IndirectObject(3121, 0, 2239656085504), IndirectObject(3117, 0, 2239656085504), IndirectObject(3118, 0, 2239656085504)], '/Parent': IndirectObject(5291, 0, 2239656085504), '/T': 'page_17'}",
+        "/TU": "TYPE OF SERVICE RELATED COMPANY PERFORMS_Row_2",
+        "/Ff": "4096",
+        "/V": "page 17 8"
+    },
+    "page_17_2016Row2": {
+        "/T": "page_17_2016Row2",
+        "/FT": "/Tx",
+        "/Parent": "{'/Kids': [IndirectObject(3114, 0, 2239656085504), IndirectObject(3110, 0, 2239656085504), IndirectObject(3111, 0, 2239656085504), IndirectObject(3115, 0, 2239656085504), IndirectObject(3131, 0, 2239656085504), IndirectObject(3132, 0, 2239656085504), IndirectObject(3130, 0, 2239656085504), IndirectObject(3122, 0, 2239656085504), IndirectObject(3128, 0, 2239656085504), IndirectObject(3126, 0, 2239656085504), IndirectObject(3116, 0, 2239656085504), IndirectObject(3124, 0, 2239656085504), IndirectObject(3119, 0, 2239656085504), IndirectObject(3120, 0, 2239656085504), IndirectObject(3133, 0, 2239656085504), IndirectObject(3134, 0, 2239656085504), IndirectObject(3121, 0, 2239656085504), IndirectObject(3117, 0, 2239656085504), IndirectObject(3118, 0, 2239656085504)], '/Parent': IndirectObject(5291, 0, 2239656085504), '/T': 'page_17'}",
+        "/TU": "TOTAL FEE PAID TO RELATED COMPANY DURING 2016_Row_2",
+        "/Ff": "4096",
+        "/V": "page 17 14",
+        "/AA": "{'/F': IndirectObject(3127, 0, 2239656085504), '/K': IndirectObject(3129, 0, 2239656085504)}"
+    },
+    "page_17_ADDRESSRow3": {
+        "/T": "page_17_ADDRESSRow3",
+        "/FT": "/Tx",
+        "/Parent": "{'/Kids': [IndirectObject(3114, 0, 2239656085504), IndirectObject(3110, 0, 2239656085504), IndirectObject(3111, 0, 2239656085504), IndirectObject(3115, 0, 2239656085504), IndirectObject(3131, 0, 2239656085504), IndirectObject(3132, 0, 2239656085504), IndirectObject(3130, 0, 2239656085504), IndirectObject(3122, 0, 2239656085504), IndirectObject(3128, 0, 2239656085504), IndirectObject(3126, 0, 2239656085504), IndirectObject(3116, 0, 2239656085504), IndirectObject(3124, 0, 2239656085504), IndirectObject(3119, 0, 2239656085504), IndirectObject(3120, 0, 2239656085504), IndirectObject(3133, 0, 2239656085504), IndirectObject(3134, 0, 2239656085504), IndirectObject(3121, 0, 2239656085504), IndirectObject(3117, 0, 2239656085504), IndirectObject(3118, 0, 2239656085504)], '/Parent': IndirectObject(5291, 0, 2239656085504), '/T': 'page_17'}",
+        "/TU": "COMPANY NAME AND ADDRESS_Row_3",
+        "/Ff": "4096",
+        "/V": "page 17 3"
+    },
+    "page_17_PERFORMSRow3": {
+        "/T": "page_17_PERFORMSRow3",
+        "/FT": "/Tx",
+        "/Parent": "{'/Kids': [IndirectObject(3114, 0, 2239656085504), IndirectObject(3110, 0, 2239656085504), IndirectObject(3111, 0, 2239656085504), IndirectObject(3115, 0, 2239656085504), IndirectObject(3131, 0, 2239656085504), IndirectObject(3132, 0, 2239656085504), IndirectObject(3130, 0, 2239656085504), IndirectObject(3122, 0, 2239656085504), IndirectObject(3128, 0, 2239656085504), IndirectObject(3126, 0, 2239656085504), IndirectObject(3116, 0, 2239656085504), IndirectObject(3124, 0, 2239656085504), IndirectObject(3119, 0, 2239656085504), IndirectObject(3120, 0, 2239656085504), IndirectObject(3133, 0, 2239656085504), IndirectObject(3134, 0, 2239656085504), IndirectObject(3121, 0, 2239656085504), IndirectObject(3117, 0, 2239656085504), IndirectObject(3118, 0, 2239656085504)], '/Parent': IndirectObject(5291, 0, 2239656085504), '/T': 'page_17'}",
+        "/TU": "TYPE OF SERVICE RELATED COMPANY PERFORMS_Row_3",
+        "/Ff": "4096",
+        "/V": "page 17 9"
+    },
+    "page_17_2016Row3": {
+        "/T": "page_17_2016Row3",
+        "/FT": "/Tx",
+        "/Parent": "{'/Kids': [IndirectObject(3114, 0, 2239656085504), IndirectObject(3110, 0, 2239656085504), IndirectObject(3111, 0, 2239656085504), IndirectObject(3115, 0, 2239656085504), IndirectObject(3131, 0, 2239656085504), IndirectObject(3132, 0, 2239656085504), IndirectObject(3130, 0, 2239656085504), IndirectObject(3122, 0, 2239656085504), IndirectObject(3128, 0, 2239656085504), IndirectObject(3126, 0, 2239656085504), IndirectObject(3116, 0, 2239656085504), IndirectObject(3124, 0, 2239656085504), IndirectObject(3119, 0, 2239656085504), IndirectObject(3120, 0, 2239656085504), IndirectObject(3133, 0, 2239656085504), IndirectObject(3134, 0, 2239656085504), IndirectObject(3121, 0, 2239656085504), IndirectObject(3117, 0, 2239656085504), IndirectObject(3118, 0, 2239656085504)], '/Parent': IndirectObject(5291, 0, 2239656085504), '/T': 'page_17'}",
+        "/TU": "TOTAL FEE PAID TO RELATED COMPANY DURING 2016_Row_3",
+        "/Ff": "4096",
+        "/V": "page 17 15",
+        "/AA": "{'/F': IndirectObject(3135, 0, 2239656085504), '/K': IndirectObject(3136, 0, 2239656085504)}"
+    },
+    "page_17_ADDRESSRow4": {
+        "/T": "page_17_ADDRESSRow4",
+        "/FT": "/Tx",
+        "/Parent": "{'/Kids': [IndirectObject(3114, 0, 2239656085504), IndirectObject(3110, 0, 2239656085504), IndirectObject(3111, 0, 2239656085504), IndirectObject(3115, 0, 2239656085504), IndirectObject(3131, 0, 2239656085504), IndirectObject(3132, 0, 2239656085504), IndirectObject(3130, 0, 2239656085504), IndirectObject(3122, 0, 2239656085504), IndirectObject(3128, 0, 2239656085504), IndirectObject(3126, 0, 2239656085504), IndirectObject(3116, 0, 2239656085504), IndirectObject(3124, 0, 2239656085504), IndirectObject(3119, 0, 2239656085504), IndirectObject(3120, 0, 2239656085504), IndirectObject(3133, 0, 2239656085504), IndirectObject(3134, 0, 2239656085504), IndirectObject(3121, 0, 2239656085504), IndirectObject(3117, 0, 2239656085504), IndirectObject(3118, 0, 2239656085504)], '/Parent': IndirectObject(5291, 0, 2239656085504), '/T': 'page_17'}",
+        "/TU": "COMPANY NAME AND ADDRESS_Row_4",
+        "/Ff": "4096",
+        "/V": "page 17 4"
+    },
+    "page_17_PERFORMSRow4": {
+        "/T": "page_17_PERFORMSRow4",
+        "/FT": "/Tx",
+        "/Parent": "{'/Kids': [IndirectObject(3114, 0, 2239656085504), IndirectObject(3110, 0, 2239656085504), IndirectObject(3111, 0, 2239656085504), IndirectObject(3115, 0, 2239656085504), IndirectObject(3131, 0, 2239656085504), IndirectObject(3132, 0, 2239656085504), IndirectObject(3130, 0, 2239656085504), IndirectObject(3122, 0, 2239656085504), IndirectObject(3128, 0, 2239656085504), IndirectObject(3126, 0, 2239656085504), IndirectObject(3116, 0, 2239656085504), IndirectObject(3124, 0, 2239656085504), IndirectObject(3119, 0, 2239656085504), IndirectObject(3120, 0, 2239656085504), IndirectObject(3133, 0, 2239656085504), IndirectObject(3134, 0, 2239656085504), IndirectObject(3121, 0, 2239656085504), IndirectObject(3117, 0, 2239656085504), IndirectObject(3118, 0, 2239656085504)], '/Parent': IndirectObject(5291, 0, 2239656085504), '/T': 'page_17'}",
+        "/TU": "TYPE OF SERVICE RELATED COMPANY PERFORMS_Row_4",
+        "/Ff": "4096",
+        "/V": "page 17 10"
+    },
+    "page_17_2016Row4": {
+        "/T": "page_17_2016Row4",
+        "/FT": "/Tx",
+        "/Parent": "{'/Kids': [IndirectObject(3114, 0, 2239656085504), IndirectObject(3110, 0, 2239656085504), IndirectObject(3111, 0, 2239656085504), IndirectObject(3115, 0, 2239656085504), IndirectObject(3131, 0, 2239656085504), IndirectObject(3132, 0, 2239656085504), IndirectObject(3130, 0, 2239656085504), IndirectObject(3122, 0, 2239656085504), IndirectObject(3128, 0, 2239656085504), IndirectObject(3126, 0, 2239656085504), IndirectObject(3116, 0, 2239656085504), IndirectObject(3124, 0, 2239656085504), IndirectObject(3119, 0, 2239656085504), IndirectObject(3120, 0, 2239656085504), IndirectObject(3133, 0, 2239656085504), IndirectObject(3134, 0, 2239656085504), IndirectObject(3121, 0, 2239656085504), IndirectObject(3117, 0, 2239656085504), IndirectObject(3118, 0, 2239656085504)], '/Parent': IndirectObject(5291, 0, 2239656085504), '/T': 'page_17'}",
+        "/TU": "TOTAL FEE PAID TO RELATED COMPANY DURING 2016_Row_4",
+        "/Ff": "4096",
+        "/V": "page 17 16",
+        "/AA": "{'/F': IndirectObject(3137, 0, 2239656085504), '/K': IndirectObject(3138, 0, 2239656085504)}"
+    },
+    "page_17_ADDRESSRow5": {
+        "/T": "page_17_ADDRESSRow5",
+        "/FT": "/Tx",
+        "/Parent": "{'/Kids': [IndirectObject(3114, 0, 2239656085504), IndirectObject(3110, 0, 2239656085504), IndirectObject(3111, 0, 2239656085504), IndirectObject(3115, 0, 2239656085504), IndirectObject(3131, 0, 2239656085504), IndirectObject(3132, 0, 2239656085504), IndirectObject(3130, 0, 2239656085504), IndirectObject(3122, 0, 2239656085504), IndirectObject(3128, 0, 2239656085504), IndirectObject(3126, 0, 2239656085504), IndirectObject(3116, 0, 2239656085504), IndirectObject(3124, 0, 2239656085504), IndirectObject(3119, 0, 2239656085504), IndirectObject(3120, 0, 2239656085504), IndirectObject(3133, 0, 2239656085504), IndirectObject(3134, 0, 2239656085504), IndirectObject(3121, 0, 2239656085504), IndirectObject(3117, 0, 2239656085504), IndirectObject(3118, 0, 2239656085504)], '/Parent': IndirectObject(5291, 0, 2239656085504), '/T': 'page_17'}",
+        "/TU": "COMPANY NAME AND ADDRESS_Row_5",
+        "/Ff": "4096",
+        "/V": "page 17 5"
+    },
+    "page_17_PERFORMSRow5": {
+        "/T": "page_17_PERFORMSRow5",
+        "/FT": "/Tx",
+        "/Parent": "{'/Kids': [IndirectObject(3114, 0, 2239656085504), IndirectObject(3110, 0, 2239656085504), IndirectObject(3111, 0, 2239656085504), IndirectObject(3115, 0, 2239656085504), IndirectObject(3131, 0, 2239656085504), IndirectObject(3132, 0, 2239656085504), IndirectObject(3130, 0, 2239656085504), IndirectObject(3122, 0, 2239656085504), IndirectObject(3128, 0, 2239656085504), IndirectObject(3126, 0, 2239656085504), IndirectObject(3116, 0, 2239656085504), IndirectObject(3124, 0, 2239656085504), IndirectObject(3119, 0, 2239656085504), IndirectObject(3120, 0, 2239656085504), IndirectObject(3133, 0, 2239656085504), IndirectObject(3134, 0, 2239656085504), IndirectObject(3121, 0, 2239656085504), IndirectObject(3117, 0, 2239656085504), IndirectObject(3118, 0, 2239656085504)], '/Parent': IndirectObject(5291, 0, 2239656085504), '/T': 'page_17'}",
+        "/TU": "TYPE OF SERVICE RELATED COMPANY PERFORMS_Row_5",
+        "/Ff": "4096",
+        "/V": "page 17 11"
+    },
+    "page_17_2016Row5": {
+        "/T": "page_17_2016Row5",
+        "/FT": "/Tx",
+        "/Parent": "{'/Kids': [IndirectObject(3114, 0, 2239656085504), IndirectObject(3110, 0, 2239656085504), IndirectObject(3111, 0, 2239656085504), IndirectObject(3115, 0, 2239656085504), IndirectObject(3131, 0, 2239656085504), IndirectObject(3132, 0, 2239656085504), IndirectObject(3130, 0, 2239656085504), IndirectObject(3122, 0, 2239656085504), IndirectObject(3128, 0, 2239656085504), IndirectObject(3126, 0, 2239656085504), IndirectObject(3116, 0, 2239656085504), IndirectObject(3124, 0, 2239656085504), IndirectObject(3119, 0, 2239656085504), IndirectObject(3120, 0, 2239656085504), IndirectObject(3133, 0, 2239656085504), IndirectObject(3134, 0, 2239656085504), IndirectObject(3121, 0, 2239656085504), IndirectObject(3117, 0, 2239656085504), IndirectObject(3118, 0, 2239656085504)], '/Parent': IndirectObject(5291, 0, 2239656085504), '/T': 'page_17'}",
+        "/TU": "TOTAL FEE PAID TO RELATED COMPANY DURING 2016_Row_5",
+        "/Ff": "4096",
+        "/V": "page 17 17",
+        "/AA": "{'/F': IndirectObject(3143, 0, 2239656085504), '/K': IndirectObject(3141, 0, 2239656085504)}"
+    },
+    "page_17_ADDRESSRow6": {
+        "/T": "page_17_ADDRESSRow6",
+        "/FT": "/Tx",
+        "/Parent": "{'/Kids': [IndirectObject(3114, 0, 2239656085504), IndirectObject(3110, 0, 2239656085504), IndirectObject(3111, 0, 2239656085504), IndirectObject(3115, 0, 2239656085504), IndirectObject(3131, 0, 2239656085504), IndirectObject(3132, 0, 2239656085504), IndirectObject(3130, 0, 2239656085504), IndirectObject(3122, 0, 2239656085504), IndirectObject(3128, 0, 2239656085504), IndirectObject(3126, 0, 2239656085504), IndirectObject(3116, 0, 2239656085504), IndirectObject(3124, 0, 2239656085504), IndirectObject(3119, 0, 2239656085504), IndirectObject(3120, 0, 2239656085504), IndirectObject(3133, 0, 2239656085504), IndirectObject(3134, 0, 2239656085504), IndirectObject(3121, 0, 2239656085504), IndirectObject(3117, 0, 2239656085504), IndirectObject(3118, 0, 2239656085504)], '/Parent': IndirectObject(5291, 0, 2239656085504), '/T': 'page_17'}",
+        "/TU": "COMPANY NAME AND ADDRESS_Row_6",
+        "/Ff": "4096",
+        "/V": "page 17 6"
+    },
+    "page_17_PERFORMSRow6": {
+        "/T": "page_17_PERFORMSRow6",
+        "/FT": "/Tx",
+        "/Parent": "{'/Kids': [IndirectObject(3114, 0, 2239656085504), IndirectObject(3110, 0, 2239656085504), IndirectObject(3111, 0, 2239656085504), IndirectObject(3115, 0, 2239656085504), IndirectObject(3131, 0, 2239656085504), IndirectObject(3132, 0, 2239656085504), IndirectObject(3130, 0, 2239656085504), IndirectObject(3122, 0, 2239656085504), IndirectObject(3128, 0, 2239656085504), IndirectObject(3126, 0, 2239656085504), IndirectObject(3116, 0, 2239656085504), IndirectObject(3124, 0, 2239656085504), IndirectObject(3119, 0, 2239656085504), IndirectObject(3120, 0, 2239656085504), IndirectObject(3133, 0, 2239656085504), IndirectObject(3134, 0, 2239656085504), IndirectObject(3121, 0, 2239656085504), IndirectObject(3117, 0, 2239656085504), IndirectObject(3118, 0, 2239656085504)], '/Parent': IndirectObject(5291, 0, 2239656085504), '/T': 'page_17'}",
+        "/TU": "TYPE OF SERVICE RELATED COMPANY PERFORMS_Row_6",
+        "/Ff": "4096",
+        "/V": "page 17 12"
+    },
+    "page_17_2016Row6": {
+        "/T": "page_17_2016Row6",
+        "/FT": "/Tx",
+        "/Parent": "{'/Kids': [IndirectObject(3114, 0, 2239656085504), IndirectObject(3110, 0, 2239656085504), IndirectObject(3111, 0, 2239656085504), IndirectObject(3115, 0, 2239656085504), IndirectObject(3131, 0, 2239656085504), IndirectObject(3132, 0, 2239656085504), IndirectObject(3130, 0, 2239656085504), IndirectObject(3122, 0, 2239656085504), IndirectObject(3128, 0, 2239656085504), IndirectObject(3126, 0, 2239656085504), IndirectObject(3116, 0, 2239656085504), IndirectObject(3124, 0, 2239656085504), IndirectObject(3119, 0, 2239656085504), IndirectObject(3120, 0, 2239656085504), IndirectObject(3133, 0, 2239656085504), IndirectObject(3134, 0, 2239656085504), IndirectObject(3121, 0, 2239656085504), IndirectObject(3117, 0, 2239656085504), IndirectObject(3118, 0, 2239656085504)], '/Parent': IndirectObject(5291, 0, 2239656085504), '/T': 'page_17'}",
+        "/TU": "TOTAL FEE PAID TO RELATED COMPANY DURING 2016_Row_6",
+        "/Ff": "4096",
+        "/V": "page 17 19",
+        "/AA": "{'/F': IndirectObject(3139, 0, 2239656085504), '/K': IndirectObject(3142, 0, 2239656085504)}"
+    },
+    "page_17_duplicatePage": {
+        "/T": "page_17_duplicatePage",
+        "/FT": "/Btn",
+        "/Parent": "{'/Kids': [IndirectObject(3114, 0, 2239656085504), IndirectObject(3110, 0, 2239656085504), IndirectObject(3111, 0, 2239656085504), IndirectObject(3115, 0, 2239656085504), IndirectObject(3131, 0, 2239656085504), IndirectObject(3132, 0, 2239656085504), IndirectObject(3130, 0, 2239656085504), IndirectObject(3122, 0, 2239656085504), IndirectObject(3128, 0, 2239656085504), IndirectObject(3126, 0, 2239656085504), IndirectObject(3116, 0, 2239656085504), IndirectObject(3124, 0, 2239656085504), IndirectObject(3119, 0, 2239656085504), IndirectObject(3120, 0, 2239656085504), IndirectObject(3133, 0, 2239656085504), IndirectObject(3134, 0, 2239656085504), IndirectObject(3121, 0, 2239656085504), IndirectObject(3117, 0, 2239656085504), IndirectObject(3118, 0, 2239656085504)], '/Parent': IndirectObject(5291, 0, 2239656085504), '/T': 'page_17'}",
+        "/TU": "Duplicate",
+        "/Ff": "65536"
+    },
+    "page_17": {
+        "/T": "page_17",
+        "/Parent": "{'/Kids': [IndirectObject(5304, 0, 2239656085504)], '/T': 'P16'}",
+        "/Kids": "[IndirectObject(3114, 0, 2239656085504), IndirectObject(3110, 0, 2239656085504), IndirectObject(3111, 0, 2239656085504), IndirectObject(3115, 0, 2239656085504), IndirectObject(3131, 0, 2239656085504), IndirectObject(3132, 0, 2239656085504), IndirectObject(3130, 0, 2239656085504), IndirectObject(3122, 0, 2239656085504), IndirectObject(3128, 0, 2239656085504), IndirectObject(3126, 0, 2239656085504), IndirectObject(3116, 0, 2239656085504), IndirectObject(3124, 0, 2239656085504), IndirectObject(3119, 0, 2239656085504), IndirectObject(3120, 0, 2239656085504), IndirectObject(3133, 0, 2239656085504), IndirectObject(3134, 0, 2239656085504), IndirectObject(3121, 0, 2239656085504), IndirectObject(3117, 0, 2239656085504), IndirectObject(3118, 0, 2239656085504)]"
+    }
+}

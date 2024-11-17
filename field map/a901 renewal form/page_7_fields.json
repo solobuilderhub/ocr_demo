@@ -1,0 +1,227 @@
+{
+    "pg7_SS": {
+        "/T": "pg7_SS",
+        "/FT": "/Tx",
+        "/TU": "SS",
+        "/AA": "{'/F': IndirectObject(1541, 0, 2857086470240), '/K': IndirectObject(1542, 0, 2857086470240)}"
+    },
+    "pg7_DOB1": {
+        "/T": "pg7_DOB1",
+        "/FT": "/Tx",
+        "/AA": "{'/F': IndirectObject(1539, 0, 2857086470240), '/K': IndirectObject(1540, 0, 2857086470240)}"
+    },
+    "pg7_FEID": {
+        "/T": "pg7_FEID",
+        "/FT": "/Tx",
+        "/TU": "FEID",
+        "/AA": "{'/K': IndirectObject(1538, 0, 2857086470240)}"
+    },
+    "pg7_Interest": {
+        "/T": "pg7_Interest",
+        "/FT": "/Tx",
+        "/TU": "OF INTEREST",
+        "/AA": "{'/F': IndirectObject(1536, 0, 2857086470240), '/K': IndirectObject(1537, 0, 2857086470240)}"
+    },
+    "pg7_CompanyName2": {
+        "/T": "pg7_CompanyName2",
+        "/FT": "/Tx",
+        "/TU": "INDIVIDUAL OR NAME OF PARENT COMPANY"
+    },
+    "pg7_SS2": {
+        "/T": "pg7_SS2",
+        "/FT": "/Tx",
+        "/TU": "SS",
+        "/AA": "{'/F': IndirectObject(1534, 0, 2857086470240), '/K': IndirectObject(1535, 0, 2857086470240)}"
+    },
+    "pg7_DOB2": {
+        "/T": "pg7_DOB2",
+        "/FT": "/Tx",
+        "/AA": "{'/F': IndirectObject(1532, 0, 2857086470240), '/K': IndirectObject(1533, 0, 2857086470240)}"
+    },
+    "pg7_Interest2": {
+        "/T": "pg7_Interest2",
+        "/FT": "/Tx",
+        "/TU": "OF INTEREST",
+        "/AA": "{'/F': IndirectObject(1530, 0, 2857086470240), '/K': IndirectObject(1531, 0, 2857086470240)}"
+    },
+    "pg7_OfficerName1": {
+        "/T": "pg7_OfficerName1",
+        "/FT": "/Tx",
+        "/TU": "NAME"
+    },
+    "pg7_OfficerSS1": {
+        "/T": "pg7_OfficerSS1",
+        "/FT": "/Tx",
+        "/TU": "SS",
+        "/AA": "{'/F': IndirectObject(1528, 0, 2857086470240), '/K': IndirectObject(1529, 0, 2857086470240)}"
+    },
+    "pg7_OfficerDOB1": {
+        "/T": "pg7_OfficerDOB1",
+        "/FT": "/Tx",
+        "/AA": "{'/F': IndirectObject(1526, 0, 2857086470240), '/K': IndirectObject(1527, 0, 2857086470240)}"
+    },
+    "pg7_OfficerTitle1": {
+        "/T": "pg7_OfficerTitle1",
+        "/FT": "/Tx",
+        "/TU": "TITLE"
+    },
+    "pg7_OfficerInterest1": {
+        "/T": "pg7_OfficerInterest1",
+        "/FT": "/Tx",
+        "/TU": "OF INTEREST",
+        "/AA": "{'/F': IndirectObject(1524, 0, 2857086470240), '/K': IndirectObject(1525, 0, 2857086470240)}"
+    },
+    "pg7_OfficerSS2": {
+        "/T": "pg7_OfficerSS2",
+        "/FT": "/Tx",
+        "/TU": "SS",
+        "/AA": "{'/F': IndirectObject(1522, 0, 2857086470240), '/K': IndirectObject(1523, 0, 2857086470240)}"
+    },
+    "pg7_OfficerDOB2": {
+        "/T": "pg7_OfficerDOB2",
+        "/FT": "/Tx",
+        "/AA": "{'/F': IndirectObject(1520, 0, 2857086470240), '/K': IndirectObject(1521, 0, 2857086470240)}"
+    },
+    "pg7_OfficerName2": {
+        "/T": "pg7_OfficerName2",
+        "/FT": "/Tx",
+        "/TU": "NAME"
+    },
+    "pg7_CompanyName": {
+        "/T": "pg7_CompanyName",
+        "/FT": "/Tx",
+        "/TU": "INDIVIDUAL OR NAME OF PARENT COMPANY"
+    },
+    "pg7_OfficerTitle2": {
+        "/T": "pg7_OfficerTitle2",
+        "/FT": "/Tx",
+        "/TU": "TITLE"
+    },
+    "pg7_OfficerInterest2": {
+        "/T": "pg7_OfficerInterest2",
+        "/FT": "/Tx",
+        "/TU": "OF INTEREST",
+        "/AA": "{'/F': IndirectObject(1518, 0, 2857086470240), '/K': IndirectObject(1519, 0, 2857086470240)}"
+    },
+    "pg7_OfficerName3": {
+        "/T": "pg7_OfficerName3",
+        "/FT": "/Tx",
+        "/TU": "NAME"
+    },
+    "pg7_OfficerSS3": {
+        "/T": "pg7_OfficerSS3",
+        "/FT": "/Tx",
+        "/TU": "SS",
+        "/AA": "{'/F': IndirectObject(1516, 0, 2857086470240), '/K': IndirectObject(1517, 0, 2857086470240)}"
+    },
+    "pg7_OfficerDOB3": {
+        "/T": "pg7_OfficerDOB3",
+        "/FT": "/Tx",
+        "/AA": "{'/F': IndirectObject(1514, 0, 2857086470240), '/K': IndirectObject(1515, 0, 2857086470240)}"
+    },
+    "pg7_OfficerTitle3": {
+        "/T": "pg7_OfficerTitle3",
+        "/FT": "/Tx",
+        "/TU": "TITLE"
+    },
+    "pg7_OfficerInterest3": {
+        "/T": "pg7_OfficerInterest3",
+        "/FT": "/Tx",
+        "/TU": "OF INTEREST",
+        "/AA": "{'/F': IndirectObject(1512, 0, 2857086470240), '/K': IndirectObject(1513, 0, 2857086470240)}"
+    },
+    "pg7_DirName1": {
+        "/T": "pg7_DirName1",
+        "/FT": "/Tx",
+        "/TU": "NAME"
+    },
+    "pg7_DirSS1": {
+        "/T": "pg7_DirSS1",
+        "/FT": "/Tx",
+        "/TU": "SS",
+        "/AA": "{'/F': IndirectObject(1510, 0, 2857086470240), '/K': IndirectObject(1511, 0, 2857086470240)}"
+    },
+    "pg7_DirDOB1": {
+        "/T": "pg7_DirDOB1",
+        "/FT": "/Tx",
+        "/AA": "{'/F': IndirectObject(1508, 0, 2857086470240), '/K': IndirectObject(1509, 0, 2857086470240)}"
+    },
+    "pg7_DirTitle1": {
+        "/T": "pg7_DirTitle1",
+        "/FT": "/Tx",
+        "/TU": "TITLE"
+    },
+    "pg7_DirInterest1": {
+        "/T": "pg7_DirInterest1",
+        "/FT": "/Tx",
+        "/TU": "OF INTEREST",
+        "/AA": "{'/F': IndirectObject(1506, 0, 2857086470240), '/K': IndirectObject(1507, 0, 2857086470240)}"
+    },
+    "pg7_DirName2": {
+        "/T": "pg7_DirName2",
+        "/FT": "/Tx",
+        "/TU": "NAME"
+    },
+    "pg7_DirSS2": {
+        "/T": "pg7_DirSS2",
+        "/FT": "/Tx",
+        "/TU": "SS",
+        "/AA": "{'/F': IndirectObject(1504, 0, 2857086470240), '/K': IndirectObject(1505, 0, 2857086470240)}"
+    },
+    "pg7_DirDOB2": {
+        "/T": "pg7_DirDOB2",
+        "/FT": "/Tx",
+        "/AA": "{'/F': IndirectObject(1502, 0, 2857086470240), '/K': IndirectObject(1503, 0, 2857086470240)}"
+    },
+    "pg7_DirTitle2": {
+        "/T": "pg7_DirTitle2",
+        "/FT": "/Tx",
+        "/TU": "TITLE"
+    },
+    "pg7_DirInterest2": {
+        "/T": "pg7_DirInterest2",
+        "/FT": "/Tx",
+        "/TU": "OF INTEREST",
+        "/AA": "{'/F': IndirectObject(1500, 0, 2857086470240), '/K': IndirectObject(1501, 0, 2857086470240)}"
+    },
+    "pg7_DirName3": {
+        "/T": "pg7_DirName3",
+        "/FT": "/Tx",
+        "/TU": "NAME"
+    },
+    "pg7_DirSS3": {
+        "/T": "pg7_DirSS3",
+        "/FT": "/Tx",
+        "/TU": "SS",
+        "/AA": "{'/F': IndirectObject(1498, 0, 2857086470240), '/K': IndirectObject(1499, 0, 2857086470240)}"
+    },
+    "pg7_DirDOB3": {
+        "/T": "pg7_DirDOB3",
+        "/FT": "/Tx",
+        "/AA": "{'/F': IndirectObject(1496, 0, 2857086470240), '/K': IndirectObject(1497, 0, 2857086470240)}"
+    },
+    "pg7_DirTitle3": {
+        "/T": "pg7_DirTitle3",
+        "/FT": "/Tx",
+        "/TU": "TITLE"
+    },
+    "pg7_DirInterest3": {
+        "/T": "pg7_DirInterest3",
+        "/FT": "/Tx",
+        "/TU": "OF INTEREST",
+        "/AA": "{'/F': IndirectObject(1494, 0, 2857086470240), '/K': IndirectObject(1495, 0, 2857086470240)}"
+    },
+    "pg7_duplicate": {
+        "/T": "pg7_duplicate",
+        "/FT": "/Btn",
+        "/TU": "Duplicate",
+        "/Ff": "65536"
+    },
+    "pg7_FEID2": {
+        "/T": "pg7_FEID2",
+        "/FT": "/Tx",
+        "/TU": "FEID",
+        "/Kids": "[IndirectObject(1487, 0, 2857086470240)]",
+        "/AA": "{'/K': IndirectObject(1492, 0, 2857086470240)}"
+    }
+}

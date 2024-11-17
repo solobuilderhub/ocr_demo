@@ -1,0 +1,60 @@
+{
+    "pg16_ReleaseSign": {
+        "/T": "pg16_ReleaseSign",
+        "/FT": "/Sig"
+    },
+    "pg16_ReleaseNotary": {
+        "/T": "pg16_ReleaseNotary",
+        "/FT": "/Sig"
+    },
+    "pg16_ReleaseName": {
+        "/T": "pg16_ReleaseName",
+        "/FT": "/Tx",
+        "/TU": "ON BEHALF OF",
+        "/V": "page 16 name"
+    },
+    "pg16_ReleaseAuthName": {
+        "/T": "pg16_ReleaseAuthName",
+        "/FT": "/Tx",
+        "/TU": "I",
+        "/V": "page 16 business name"
+    },
+    "pg16_ReleasePrint": {
+        "/T": "pg16_ReleasePrint",
+        "/FT": "/Tx",
+        "/TU": "PRINT NAME OF INDIVIDUAL SIGNING",
+        "/V": "page 16 indv sign"
+    },
+    "pg16_ReleaseAttorney": {
+        "/T": "pg16_ReleaseAttorney",
+        "/FT": "/Tx",
+        "/TU": "ATTORNEY/NOTARY PUBLIC OF",
+        "/V": "page 16 notary"
+    },
+    "pg16_ReleaseCOMMISSIONNO": {
+        "/T": "pg16_ReleaseCOMMISSIONNO",
+        "/FT": "/Tx",
+        "/TU": "COMMISSION NO",
+        "/V": "page 16 commission"
+    },
+    "pg16_ReleaseDated": {
+        "/T": "pg16_ReleaseDated",
+        "/FT": "/Tx",
+        "/V": "page 16 date",
+        "/Kids": "[IndirectObject(1088, 0, 2857086470240)]",
+        "/AA": "{'/F': IndirectObject(1689, 0, 2857086470240), '/K': IndirectObject(1690, 0, 2857086470240)}"
+    },
+    "pg16_ReleaseDatedSigned": {
+        "/T": "pg16_ReleaseDatedSigned",
+        "/FT": "/Tx",
+        "/V": "page 16 signed",
+        "/Kids": "[IndirectObject(1089, 0, 2857086470240)]",
+        "/AA": "{'/F': IndirectObject(1687, 0, 2857086470240), '/K': IndirectObject(1688, 0, 2857086470240)}"
+    },
+    "pg16_ReleaseDatedExpires": {
+        "/T": "pg16_ReleaseDatedExpires",
+        "/FT": "/Tx",
+        "/V": "page 16 commission exp on",
+        "/AA": "{'/F': IndirectObject(1091, 0, 2857086470240), '/K': IndirectObject(1092, 0, 2857086470240)}"
+    }
+}

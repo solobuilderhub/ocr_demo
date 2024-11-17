@@ -1,0 +1,29 @@
+{
+    "pg13_Desc": {
+        "/T": "pg13_Desc",
+        "/FT": "/Tx",
+        "/Ff": "4096",
+        "/V": "page 13 broad description"
+    },
+    "pg13_SummChk": {
+        "/T": "pg13_SummChk",
+        "/FT": "/Btn",
+        "/Ff": "49152",
+        "/V": "/Yes",
+        "/Kids": "[IndirectObject(1053, 0, 2857086470240), IndirectObject(1054, 0, 2857086470240)]"
+    },
+    "pg13_ExpunChk": {
+        "/T": "pg13_ExpunChk",
+        "/FT": "/Btn",
+        "/Ff": "49152",
+        "/V": "/Yes",
+        "/Kids": "[IndirectObject(1051, 0, 2857086470240), IndirectObject(1055, 0, 2857086470240)]"
+    },
+    "pg13_DUIChk": {
+        "/T": "pg13_DUIChk",
+        "/FT": "/Btn",
+        "/Ff": "49152",
+        "/V": "/No",
+        "/Kids": "[IndirectObject(1052, 0, 2857086470240), IndirectObject(1057, 0, 2857086470240)]"
+    }
+}

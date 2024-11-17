@@ -1,0 +1,105 @@
+{
+    "pg5_SINGLEUNITS": {
+        "/T": "pg5_SINGLEUNITS",
+        "/FT": "/Tx",
+        "/TU": "SINGLE UNITS",
+        "/AA": "{'/F': IndirectObject(1595, 0, 2857086470240), '/K': IndirectObject(1596, 0, 2857086470240)}"
+    },
+    "pg5_CABS": {
+        "/T": "pg5_CABS",
+        "/FT": "/Tx",
+        "/TU": "CABS",
+        "/AA": "{'/F': IndirectObject(1593, 0, 2857086470240), '/K': IndirectObject(1594, 0, 2857086470240)}"
+    },
+    "pg5_TRAILERS": {
+        "/T": "pg5_TRAILERS",
+        "/FT": "/Tx",
+        "/TU": "TRAILERS",
+        "/AA": "{'/F': IndirectObject(1591, 0, 2857086470240), '/K': IndirectObject(1592, 0, 2857086470240)}"
+    },
+    "pg5_CONTAINERS": {
+        "/T": "pg5_CONTAINERS",
+        "/FT": "/Tx",
+        "/TU": "CONTAINERS",
+        "/AA": "{'/F': IndirectObject(1589, 0, 2857086470240), '/K': IndirectObject(1590, 0, 2857086470240)}"
+    },
+    "pg5_DRIVERS": {
+        "/T": "pg5_DRIVERS",
+        "/FT": "/Tx",
+        "/TU": "DRIVERS",
+        "/AA": "{'/F': IndirectObject(1587, 0, 2857086470240), '/K': IndirectObject(1588, 0, 2857086470240)}"
+    },
+    "pg5_LeaseChk": {
+        "/T": "pg5_LeaseChk",
+        "/FT": "/Btn",
+        "/Ff": "49152",
+        "/Kids": "[IndirectObject(1571, 0, 2857086470240), IndirectObject(1575, 0, 2857086470240)]"
+    },
+    "pg5_LessorChk": {
+        "/T": "pg5_LessorChk",
+        "/FT": "/Btn",
+        "/Ff": "49152",
+        "/Kids": "[IndirectObject(1572, 0, 2857086470240), IndirectObject(1576, 0, 2857086470240)]"
+    },
+    "pg5_EquipChk": {
+        "/T": "pg5_EquipChk",
+        "/FT": "/Btn",
+        "/Ff": "49152",
+        "/Kids": "[IndirectObject(1573, 0, 2857086470240), IndirectObject(1577, 0, 2857086470240)]"
+    },
+    "pg5_ThreshChk": {
+        "/T": "pg5_ThreshChk",
+        "/FT": "/Btn",
+        "/Ff": "49152",
+        "/Kids": "[IndirectObject(1574, 0, 2857086470240), IndirectObject(1578, 0, 2857086470240)]"
+    },
+    "pg5_Lessor": {
+        "/T": "pg5_Lessor",
+        "/FT": "/Tx",
+        "/TU": "NAME OF LESSOR"
+    },
+    "pg5_ADDRESS": {
+        "/T": "pg5_ADDRESS",
+        "/FT": "/Tx",
+        "/TU": "ADDRESS"
+    },
+    "pg5_CONTACTPERSON": {
+        "/T": "pg5_CONTACTPERSON",
+        "/FT": "/Tx",
+        "/TU": "CONTACT PERSON"
+    },
+    "pg5_PHONE": {
+        "/T": "pg5_PHONE",
+        "/FT": "/Tx",
+        "/TU": "PHONE",
+        "/AA": "{'/F': IndirectObject(1585, 0, 2857086470240), '/K': IndirectObject(1586, 0, 2857086470240)}"
+    },
+    "pg5_EquipLeased": {
+        "/T": "pg5_EquipLeased",
+        "/FT": "/Tx",
+        "/TU": "OF PIECES OF EQUIPMENT LEASED",
+        "/AA": "{'/F': IndirectObject(1583, 0, 2857086470240), '/K': IndirectObject(1584, 0, 2857086470240)}"
+    },
+    "pg5_DriverLeased": {
+        "/T": "pg5_DriverLeased",
+        "/FT": "/Tx",
+        "/TU": "OF DRIVERS LEASED",
+        "/AA": "{'/F': IndirectObject(1581, 0, 2857086470240), '/K': IndirectObject(1582, 0, 2857086470240)}"
+    },
+    "pg5_SAFETYRATING": {
+        "/T": "pg5_SAFETYRATING",
+        "/FT": "/Tx",
+        "/TU": "SAFETY RATING"
+    },
+    "pg5_OPERATINGSTATUS": {
+        "/T": "pg5_OPERATINGSTATUS",
+        "/FT": "/Tx",
+        "/TU": "OPERATING STATUS"
+    },
+    "pg5_duplicate": {
+        "/T": "pg5_duplicate",
+        "/FT": "/Btn",
+        "/TU": "Duplicate",
+        "/Ff": "65536"
+    }
+}

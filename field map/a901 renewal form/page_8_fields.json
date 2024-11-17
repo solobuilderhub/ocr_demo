@@ -1,0 +1,155 @@
+{
+    "pg8_LLCSS1": {
+        "/T": "pg8_LLCSS1",
+        "/FT": "/Tx",
+        "/TU": "SS",
+        "/AA": "{'/F': IndirectObject(1484, 0, 2857086470240), '/K': IndirectObject(1485, 0, 2857086470240)}"
+    },
+    "pg8_LLCDOB1": {
+        "/T": "pg8_LLCDOB1",
+        "/FT": "/Tx",
+        "/AA": "{'/F': IndirectObject(1482, 0, 2857086470240), '/K': IndirectObject(1483, 0, 2857086470240)}"
+    },
+    "pg8_LLCTitle1": {
+        "/T": "pg8_LLCTitle1",
+        "/FT": "/Tx",
+        "/TU": "TITLE"
+    },
+    "pg8_LLCInterest1": {
+        "/T": "pg8_LLCInterest1",
+        "/FT": "/Tx",
+        "/TU": "OF INTEREST",
+        "/AA": "{'/F': IndirectObject(1480, 0, 2857086470240), '/K': IndirectObject(1481, 0, 2857086470240)}"
+    },
+    "pg8_LLCName1": {
+        "/T": "pg8_LLCName1",
+        "/FT": "/Tx",
+        "/TU": "NAME"
+    },
+    "pg8_LLCName2": {
+        "/T": "pg8_LLCName2",
+        "/FT": "/Tx",
+        "/TU": "NAME"
+    },
+    "pg8_LLCSS2": {
+        "/T": "pg8_LLCSS2",
+        "/FT": "/Tx",
+        "/TU": "SS",
+        "/AA": "{'/F': IndirectObject(1478, 0, 2857086470240), '/K': IndirectObject(1479, 0, 2857086470240)}"
+    },
+    "pg8_LLCDOB2": {
+        "/T": "pg8_LLCDOB2",
+        "/FT": "/Tx",
+        "/AA": "{'/F': IndirectObject(1476, 0, 2857086470240), '/K': IndirectObject(1477, 0, 2857086470240)}"
+    },
+    "pg8_LLCTitle2": {
+        "/T": "pg8_LLCTitle2",
+        "/FT": "/Tx",
+        "/TU": "TITLE"
+    },
+    "pg8_LLCInterest2": {
+        "/T": "pg8_LLCInterest2",
+        "/FT": "/Tx",
+        "/TU": "OF INTEREST",
+        "/AA": "{'/F': IndirectObject(1474, 0, 2857086470240), '/K': IndirectObject(1475, 0, 2857086470240)}"
+    },
+    "pg8_LLCName3": {
+        "/T": "pg8_LLCName3",
+        "/FT": "/Tx",
+        "/TU": "NAME"
+    },
+    "pg8_LLCSS3": {
+        "/T": "pg8_LLCSS3",
+        "/FT": "/Tx",
+        "/TU": "SS",
+        "/AA": "{'/F': IndirectObject(1472, 0, 2857086470240), '/K': IndirectObject(1473, 0, 2857086470240)}"
+    },
+    "pg8_LLCDOB3": {
+        "/T": "pg8_LLCDOB3",
+        "/FT": "/Tx",
+        "/AA": "{'/F': IndirectObject(1470, 0, 2857086470240), '/K': IndirectObject(1471, 0, 2857086470240)}"
+    },
+    "pg8_LLCTitle3": {
+        "/T": "pg8_LLCTitle3",
+        "/FT": "/Tx",
+        "/TU": "TITLE"
+    },
+    "pg8_LLCInterest3": {
+        "/T": "pg8_LLCInterest3",
+        "/FT": "/Tx",
+        "/TU": "OF INTEREST",
+        "/AA": "{'/F': IndirectObject(1468, 0, 2857086470240), '/K': IndirectObject(1469, 0, 2857086470240)}"
+    },
+    "pg8_FamilyName1": {
+        "/T": "pg8_FamilyName1",
+        "/FT": "/Tx",
+        "/TU": "NAME OF INDIVIDUAL"
+    },
+    "pg8_FamilySS1": {
+        "/T": "pg8_FamilySS1",
+        "/FT": "/Tx",
+        "/TU": "SS",
+        "/AA": "{'/F': IndirectObject(1466, 0, 2857086470240), '/K': IndirectObject(1467, 0, 2857086470240)}"
+    },
+    "pg8_FamilyDOB1": {
+        "/T": "pg8_FamilyDOB1",
+        "/FT": "/Tx",
+        "/AA": "{'/F': IndirectObject(1464, 0, 2857086470240), '/K': IndirectObject(1465, 0, 2857086470240)}"
+    },
+    "pg8_FamilyInterest1": {
+        "/T": "pg8_FamilyInterest1",
+        "/FT": "/Tx",
+        "/TU": "OF INTEREST",
+        "/AA": "{'/F': IndirectObject(1462, 0, 2857086470240), '/K': IndirectObject(1463, 0, 2857086470240)}"
+    },
+    "pg8_FamilyName2": {
+        "/T": "pg8_FamilyName2",
+        "/FT": "/Tx",
+        "/TU": "NAME OF INDIVIDUAL"
+    },
+    "pg8_FamilySS2": {
+        "/T": "pg8_FamilySS2",
+        "/FT": "/Tx",
+        "/TU": "SS",
+        "/AA": "{'/F': IndirectObject(1460, 0, 2857086470240), '/K': IndirectObject(1461, 0, 2857086470240)}"
+    },
+    "pg8_FamilyDOB2": {
+        "/T": "pg8_FamilyDOB2",
+        "/FT": "/Tx",
+        "/AA": "{'/F': IndirectObject(1458, 0, 2857086470240), '/K': IndirectObject(1459, 0, 2857086470240)}"
+    },
+    "pg8_FamilyInterest2": {
+        "/T": "pg8_FamilyInterest2",
+        "/FT": "/Tx",
+        "/TU": "OF INTEREST",
+        "/AA": "{'/F': IndirectObject(1456, 0, 2857086470240), '/K': IndirectObject(1457, 0, 2857086470240)}"
+    },
+    "pg8_FamilyName3": {
+        "/T": "pg8_FamilyName3",
+        "/FT": "/Tx",
+        "/TU": "NAME OF INDIVIDUAL"
+    },
+    "pg8_FamilySS3": {
+        "/T": "pg8_FamilySS3",
+        "/FT": "/Tx",
+        "/TU": "SS",
+        "/AA": "{'/F': IndirectObject(1454, 0, 2857086470240), '/K': IndirectObject(1455, 0, 2857086470240)}"
+    },
+    "pg8_FamilyDOB3": {
+        "/T": "pg8_FamilyDOB3",
+        "/FT": "/Tx",
+        "/AA": "{'/F': IndirectObject(1452, 0, 2857086470240), '/K': IndirectObject(1453, 0, 2857086470240)}"
+    },
+    "pg8_FamilyInterest3": {
+        "/T": "pg8_FamilyInterest3",
+        "/FT": "/Tx",
+        "/TU": "OF INTEREST",
+        "/AA": "{'/F': IndirectObject(1450, 0, 2857086470240), '/K': IndirectObject(1451, 0, 2857086470240)}"
+    },
+    "pg8_duplicate": {
+        "/T": "pg8_duplicate",
+        "/FT": "/Btn",
+        "/TU": "Duplicate",
+        "/Ff": "65536"
+    }
+}

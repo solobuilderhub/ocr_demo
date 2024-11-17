@@ -1,0 +1,67 @@
+{
+    "pg15_ReleaseSign": {
+        "/T": "pg15_ReleaseSign",
+        "/FT": "/Sig",
+        "/TU": "OWNER OR AUTHORIZED SIGNATURE"
+    },
+    "pg15_ReleaseNotary": {
+        "/T": "pg15_ReleaseNotary",
+        "/FT": "/Sig",
+        "/TU": "SIGNATURE OF ATTORNEY OR NOTARY"
+    },
+    "pg15_ReleasePrint": {
+        "/T": "pg15_ReleasePrint",
+        "/FT": "/Tx",
+        "/TU": "PRINT NAME OF INDIVIDUAL SIGNING",
+        "/V": "page 15 name 2",
+        "/Kids": "[IndirectObject(1071, 0, 2857086470240)]"
+    },
+    "pg15_ReleaseAttorney": {
+        "/T": "pg15_ReleaseAttorney",
+        "/FT": "/Tx",
+        "/TU": "ATTORNEY/NOTARY PUBLIC OF",
+        "/V": "page15 notary",
+        "/Kids": "[IndirectObject(1072, 0, 2857086470240)]"
+    },
+    "pg15_ReleaseCOMMISSIONNO": {
+        "/T": "pg15_ReleaseCOMMISSIONNO",
+        "/FT": "/Tx",
+        "/TU": "COMMISSION NO",
+        "/V": "page 15 commission no",
+        "/Kids": "[IndirectObject(1075, 0, 2857086470240)]"
+    },
+    "pg15_ReleaseName": {
+        "/T": "pg15_ReleaseName",
+        "/FT": "/Tx",
+        "/TU": "ON BEHALF OF",
+        "/V": "page 15 behalf of",
+        "/Kids": "[IndirectObject(1070, 0, 2857086470240)]"
+    },
+    "pg15_ReleaseAuthName": {
+        "/T": "pg15_ReleaseAuthName",
+        "/FT": "/Tx",
+        "/TU": "I",
+        "/V": "page 15 name",
+        "/Kids": "[IndirectObject(1073, 0, 2857086470240)]"
+    },
+    "pg15_ReleaseDated": {
+        "/T": "pg15_ReleaseDated",
+        "/FT": "/Tx",
+        "/V": "page 15 date",
+        "/Kids": "[IndirectObject(1078, 0, 2857086470240)]",
+        "/AA": "{'/F': IndirectObject(1693, 0, 2857086470240), '/K': IndirectObject(1694, 0, 2857086470240)}"
+    },
+    "pg15_ReleaseDatedSigned": {
+        "/T": "pg15_ReleaseDatedSigned",
+        "/FT": "/Tx",
+        "/V": "page 15 date signed",
+        "/Kids": "[IndirectObject(1079, 0, 2857086470240)]",
+        "/AA": "{'/F': IndirectObject(1691, 0, 2857086470240), '/K': IndirectObject(1692, 0, 2857086470240)}"
+    },
+    "pg15_ReleaseExpires": {
+        "/T": "pg15_ReleaseExpires",
+        "/FT": "/Tx",
+        "/V": "page 15 commission exp",
+        "/AA": "{'/F': IndirectObject(1068, 0, 2857086470240), '/K': IndirectObject(1069, 0, 2857086470240)}"
+    }
+}

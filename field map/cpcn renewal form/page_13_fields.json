@@ -1,0 +1,164 @@
+{
+    "page_13_attachFile": {
+        "/T": "page_13_attachFile",
+        "/FT": "/Btn",
+        "/Ff": "65536"
+    },
+    "page_13_4charges": {
+        "/T": "page_13_4charges",
+        "/FT": "/Tx",
+        "/TU": "4. SPECIAL CHARGES ON INVOICE: (ex: late fees, fuel, paper billing, mileage",
+        "/V": "charge on invoice page 13"
+    },
+    "page_13_5method": {
+        "/T": "page_13_5method",
+        "/FT": "/Tx",
+        "/TU": "Please list the billing and payment procedures (example: invoicing",
+        "/V": "method bill page 13"
+    },
+    "page_13_rentalRow1": {
+        "/T": "page_13_rentalRow1",
+        "/FT": "/Tx",
+        "/TU": "Examples: roll off, pick up, container rental_Row_1",
+        "/V": "aaaaaaa"
+    },
+    "page_13_tonsRow1": {
+        "/T": "page_13_tonsRow1",
+        "/FT": "/Tx",
+        "/TU": "Examples: 10 yards, 100 tons_Row_1",
+        "/V": "bbbbbbb"
+    },
+    "page_13_upRow1": {
+        "/T": "page_13_upRow1",
+        "/FT": "/Tx",
+        "/TU": "Examples: ($/week) ($/ton) ($/pick up)_Row_1",
+        "/V": "cccccccc"
+    },
+    "page_13_rentalRow2": {
+        "/T": "page_13_rentalRow2",
+        "/FT": "/Tx",
+        "/TU": "Examples: roll off, pick up, container rental_Row_2",
+        "/V": "dddddd"
+    },
+    "page_13_tonsRow2": {
+        "/T": "page_13_tonsRow2",
+        "/FT": "/Tx",
+        "/TU": "Examples: 10 yards, 100 tons_Row_2",
+        "/V": "eeeeeeeee"
+    },
+    "page_13_upRow2": {
+        "/T": "page_13_upRow2",
+        "/FT": "/Tx",
+        "/TU": "Examples: ($/week) ($/ton) ($/pick up)_Row_2",
+        "/V": "ffffffff"
+    },
+    "page_13_tonsRow3": {
+        "/T": "page_13_tonsRow3",
+        "/FT": "/Tx",
+        "/TU": "Examples: 10 yards, 100 tons_Row_3",
+        "/V": "hhhhhhhh"
+    },
+    "page_13_upRow3": {
+        "/T": "page_13_upRow3",
+        "/FT": "/Tx",
+        "/TU": "Examples: ($/week) ($/ton) ($/pick up)_Row_3",
+        "/V": "iiiiiiii"
+    },
+    "page_13_rentalRow4": {
+        "/T": "page_13_rentalRow4",
+        "/FT": "/Tx",
+        "/TU": "Examples: roll off, pick up, container rental_Row_4",
+        "/V": "jjjjjjjj"
+    },
+    "page_13_tonsRow4": {
+        "/T": "page_13_tonsRow4",
+        "/FT": "/Tx",
+        "/TU": "Examples: 10 yards, 100 tons_Row_4",
+        "/V": "kkkkkkkkk"
+    },
+    "page_13_upRow4": {
+        "/T": "page_13_upRow4",
+        "/FT": "/Tx",
+        "/TU": "Examples: ($/week) ($/ton) ($/pick up)_Row_4",
+        "/V": "lllllll"
+    },
+    "page_13_rentalRow5": {
+        "/T": "page_13_rentalRow5",
+        "/FT": "/Tx",
+        "/TU": "Examples: roll off, pick up, container rental_Row_5",
+        "/V": "mmmmmmmmm"
+    },
+    "page_13_tonsRow5": {
+        "/T": "page_13_tonsRow5",
+        "/FT": "/Tx",
+        "/TU": "Examples: 10 yards, 100 tons_Row_5",
+        "/V": "nnnnnnnn"
+    },
+    "page_13_upRow5": {
+        "/T": "page_13_upRow5",
+        "/FT": "/Tx",
+        "/TU": "Examples: ($/week) ($/ton) ($/pick up)_Row_5",
+        "/V": "ooooooo"
+    },
+    "page_13_rentalRow6": {
+        "/T": "page_13_rentalRow6",
+        "/FT": "/Tx",
+        "/TU": "Examples: roll off, pick up, container rental_Row_6",
+        "/V": "ppppppppp"
+    },
+    "page_13_tonsRow6": {
+        "/T": "page_13_tonsRow6",
+        "/FT": "/Tx",
+        "/TU": "Examples: 10 yards, 100 tons_Row_6",
+        "/V": "qqqqqqqqq"
+    },
+    "page_13_upRow6": {
+        "/T": "page_13_upRow6",
+        "/FT": "/Tx",
+        "/TU": "Examples: ($/week) ($/ton) ($/pick up)_Row_6",
+        "/V": "rrrrrrr"
+    },
+    "page_13_rentalRow7": {
+        "/T": "page_13_rentalRow7",
+        "/FT": "/Tx",
+        "/TU": "Examples: roll off, pick up, container rental_Row_7",
+        "/V": "sssssssss"
+    },
+    "page_13_tonsRow7": {
+        "/T": "page_13_tonsRow7",
+        "/FT": "/Tx",
+        "/TU": "Examples: 10 yards, 100 tons_Row_7",
+        "/V": "tttttttt"
+    },
+    "page_13_upRow7": {
+        "/T": "page_13_upRow7",
+        "/FT": "/Tx",
+        "/TU": "Examples: ($/week) ($/ton) ($/pick up)_Row_7",
+        "/V": "uuuuuuuuu"
+    },
+    "page_13_rentalRow8": {
+        "/T": "page_13_rentalRow8",
+        "/FT": "/Tx",
+        "/TU": "Examples: roll off, pick up, container rental_Row_8",
+        "/V": "vvvvvvvv"
+    },
+    "page_13_tonsRow8": {
+        "/T": "page_13_tonsRow8",
+        "/FT": "/Tx",
+        "/TU": "Examples: 10 yards, 100 tons_Row_8",
+        "/V": "wwwwwwwww"
+    },
+    "page_13_upRow8": {
+        "/T": "page_13_upRow8",
+        "/FT": "/Tx",
+        "/TU": "Examples: ($/week) ($/ton) ($/pick up)_Row_8",
+        "/V": "xxxxxxxx"
+    },
+    "page_13_6explanation": {
+        "/T": "page_13_6explanation",
+        "/FT": "/Tx",
+        "/TU": "explanations [1]",
+        "/Ff": "4096",
+        "/V": "page 13 additional info"
+    }
+}

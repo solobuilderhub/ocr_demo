@@ -1,0 +1,90 @@
+{
+    "pg12_JudgeChk": {
+        "/T": "pg12_JudgeChk",
+        "/FT": "/Btn",
+        "/Ff": "49152",
+        "/Kids": "[IndirectObject(1363, 0, 2857086470240), IndirectObject(1366, 0, 2857086470240)]"
+    },
+    "pg12_JudgeCaption": {
+        "/T": "pg12_JudgeCaption",
+        "/FT": "/Tx",
+        "/TU": "CAPTION OF CASE"
+    },
+    "pg12_JudgeDOCKET": {
+        "/T": "pg12_JudgeDOCKET",
+        "/FT": "/Tx",
+        "/TU": "DOCKET"
+    },
+    "pg12_JudgeAmount": {
+        "/T": "pg12_JudgeAmount",
+        "/FT": "/Tx",
+        "/TU": "AMOUNT OF JUDGMENT",
+        "/AA": "{'/F': IndirectObject(1369, 0, 2857086470240), '/K': IndirectObject(1370, 0, 2857086470240)}"
+    },
+    "pg12_JudgeDesc": {
+        "/T": "pg12_JudgeDesc",
+        "/FT": "/Tx",
+        "/TU": "DESCRIPTION OF CASE [1]",
+        "/Ff": "4096"
+    },
+    "pg12_LitigChk": {
+        "/T": "pg12_LitigChk",
+        "/FT": "/Btn",
+        "/Ff": "49152",
+        "/Kids": "[IndirectObject(1365, 0, 2857086470240), IndirectObject(1367, 0, 2857086470240)]"
+    },
+    "pg12_JudgeDate": {
+        "/T": "pg12_JudgeDate",
+        "/FT": "/Tx",
+        "/AA": "{'/F': IndirectObject(1371, 0, 2857086470240), '/K': IndirectObject(1372, 0, 2857086470240)}"
+    },
+    "pg12_LitigCaption": {
+        "/T": "pg12_LitigCaption",
+        "/FT": "/Tx",
+        "/TU": "CAPTION OF CASE"
+    },
+    "pg12_LitigDOCKET": {
+        "/T": "pg12_LitigDOCKET",
+        "/FT": "/Tx",
+        "/TU": "DOCKET"
+    },
+    "pg12_LitigVenue": {
+        "/T": "pg12_LitigVenue",
+        "/FT": "/Tx",
+        "/TU": "VENUE"
+    },
+    "pg12_LitigDesc": {
+        "/T": "pg12_LitigDesc",
+        "/FT": "/Tx",
+        "/TU": "DESCRIPTION OF CASE [1]",
+        "/Ff": "4096"
+    },
+    "pg12_BankrChk": {
+        "/T": "pg12_BankrChk",
+        "/FT": "/Btn",
+        "/Ff": "49152",
+        "/Kids": "[IndirectObject(1357, 0, 2857086470240), IndirectObject(1358, 0, 2857086470240)]"
+    },
+    "pg12_BankrVENUE": {
+        "/T": "pg12_BankrVENUE",
+        "/FT": "/Tx",
+        "/TU": "VENUE"
+    },
+    "pg12_BankrDOCKET": {
+        "/T": "pg12_BankrDOCKET",
+        "/FT": "/Tx",
+        "/TU": "DOCKET"
+    },
+    "pg12_duplicate": {
+        "/T": "pg12_duplicate",
+        "/FT": "/Btn",
+        "/TU": "Duplicate",
+        "/Ff": "65536"
+    },
+    "pg12_JudgeVENUE": {
+        "/T": "pg12_JudgeVENUE",
+        "/FT": "/Tx",
+        "/TU": "VENUE",
+        "/Kids": "[IndirectObject(1364, 0, 2857086470240)]"
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "pg11_VioName": {
+        "/T": "pg11_VioName",
+        "/FT": "/Tx",
+        "/TU": "NAME OF ENTITY CITED"
+    },
+    "pg11_VioDate": {
+        "/T": "pg11_VioDate",
+        "/FT": "/Tx",
+        "/AA": "{'/F': IndirectObject(1389, 0, 2857086470240), '/K': IndirectObject(1390, 0, 2857086470240)}"
+    },
+    "pg11_VioAgency": {
+        "/T": "pg11_VioAgency",
+        "/FT": "/Tx",
+        "/TU": "ISSUING AGENCY"
+    },
+    "pg11_VioAmount": {
+        "/T": "pg11_VioAmount",
+        "/FT": "/Tx",
+        "/TU": "AMOUNT OF PENALTY OR DAMAGES",
+        "/AA": "{'/F': IndirectObject(1387, 0, 2857086470240), '/K': IndirectObject(1388, 0, 2857086470240)}"
+    },
+    "pg11_VioAlleged": {
+        "/T": "pg11_VioAlleged",
+        "/FT": "/Tx",
+        "/TU": "ALLEGED VIOLATIONS"
+    },
+    "pg11_VioType": {
+        "/T": "pg11_VioType",
+        "/FT": "/Tx",
+        "/TU": "TYPE OF NOTICE"
+    },
+    "pg11_VioDocket": {
+        "/T": "pg11_VioDocket",
+        "/FT": "/Tx",
+        "/TU": "DOCKET NO"
+    },
+    "pg11_VioExp": {
+        "/T": "pg11_VioExp",
+        "/FT": "/Tx",
+        "/TU": "DISPOSITION AND EXPLANATION"
+    },
+    "pg11_OthVioChk": {
+        "/T": "pg11_OthVioChk",
+        "/FT": "/Btn",
+        "/Ff": "49152",
+        "/Kids": "[IndirectObject(1380, 0, 2857086470240), IndirectObject(1382, 0, 2857086470240)]"
+    },
+    "pg11_VioChk": {
+        "/T": "pg11_VioChk",
+        "/FT": "/Btn",
+        "/Ff": "49152",
+        "/Kids": "[IndirectObject(1379, 0, 2857086470240), IndirectObject(1381, 0, 2857086470240)]"
+    },
+    "pg11_OthVioName": {
+        "/T": "pg11_OthVioName",
+        "/FT": "/Tx",
+        "/TU": "NAME OF ENTITY CITED"
+    },
+    "pg11_OthVioDate": {
+        "/T": "pg11_OthVioDate",
+        "/FT": "/Tx",
+        "/AA": "{'/F': IndirectObject(1385, 0, 2857086470240), '/K': IndirectObject(1386, 0, 2857086470240)}"
+    },
+    "pg11_OthVioAmount": {
+        "/T": "pg11_OthVioAmount",
+        "/FT": "/Tx",
+        "/TU": "AMOUNT OF PENALTY OR DAMAGES",
+        "/AA": "{'/F': IndirectObject(1383, 0, 2857086470240), '/K': IndirectObject(1384, 0, 2857086470240)}"
+    },
+    "pg11_OthVioAgency": {
+        "/T": "pg11_OthVioAgency",
+        "/FT": "/Tx",
+        "/TU": "ISSUING AGENCY"
+    },
+    "pg11_OthVioDesc": {
+        "/T": "pg11_OthVioDesc",
+        "/FT": "/Tx",
+        "/TU": "DESCRIPTION OF ALLEGATIONS [1]",
+        "/Ff": "4096"
+    },
+    "pg11_duplicate": {
+        "/T": "pg11_duplicate",
+        "/FT": "/Btn",
+        "/TU": "Duplicate",
+        "/Ff": "65536"
+    }
+}
