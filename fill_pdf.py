@@ -1,34 +1,23 @@
 from PyPDF2 import PdfReader, PdfWriter
-import json
-
-def serialize_fields(fields):
-    serialized_fields = {}
-    for key, value in fields.items():
-        serialized_fields[key] = {k: str(v) for k, v in value.items()}
-    return serialized_fields
 
 # Open the editable PDF
 reader = PdfReader("pdf/a901_annual_update.pdf")
-fields = reader.get_fields()
-
-# Serialize fields
-serialized_fields = serialize_fields(fields)
-
-# Save the serialized fields to a JSON file
-with open("a901 renewal.json", "w") as json_file:
-    json.dump(serialized_fields, json_file, indent=4)
-
-print("Fields have been saved to fields.json")
-
-# Create a PdfWriter object
 writer = PdfWriter()
 
-print("total pages: ", len(reader.pages))
+# Get the fields
+fields = reader.get_fields()
 
-# # Add all pages to the writer
-# for page in reader.pages:
-#     writer.add_page(page)
+# Update fields with dummy text
+updated_fields = {field_name: "Dummy Text" for field_name in fields}
 
-# # Save the updated PDF to a new file
-# with open("pdf/a901_annual_update_filled.pdf", "wb") as output_pdf:
-#     writer.write(output_pdf)
+# Iterate through each page and update the fields
+for page_num in range(len(reader.pages)):
+    page = reader.pages[page_num]
+    writer.add_page(page)
+    writer.update_page_form_field_values(writer.pages[page_num], updated_fields)
+
+# Write the updated PDF to a new file
+with open("pdf/a901_annual_update_filled.pdf", "wb") as output_pdf:
+    writer.write(output_pdf)
+
+print("PDF fields updated and saved to pdf/a901_annual_update_filled.pdf")
