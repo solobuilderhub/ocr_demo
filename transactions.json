@@ -1,0 +1,352 @@
+{
+    "transactions": [
+        {
+            "date": "NOV30",
+            "description": "Balance Forward",
+            "entries": [
+                {
+                    "account_name": "None",
+                    "amount": 0
+                },
+                {
+                    "account_name": "None",
+                    "amount": 0
+                }
+            ]
+        },
+        {
+            "date": "DEC01",
+            "description": "TD MC 23716654",
+            "entries": [
+                {
+                    "account_name": "Expenses:Auto",
+                    "amount": 104.3
+                },
+                {
+                    "account_name": "Assets:Current Assets:Checking Account",
+                    "amount": 104.3
+                }
+            ]
+        },
+        {
+            "date": "DEC01",
+            "description": "TD VISA23716654",
+            "entries": [
+                {
+                    "account_name": "Expenses:Other",
+                    "amount": 114.87
+                },
+                {
+                    "account_name": "Assets:Current Assets:Checking Account",
+                    "amount": 114.87
+                }
+            ]
+        },
+        {
+            "date": "DEC01",
+            "description": "TD IDP 23716654",
+            "entries": [
+                {
+                    "account_name": "Income:Interest Income:Checking Interest",
+                    "amount": 552.39
+                },
+                {
+                    "account_name": "Assets:Current Assets:Checking Account",
+                    "amount": 552.39
+                }
+            ]
+        },
+        {
+            "date": "DEC01",
+            "description": "TD MSR NOV BUS",
+            "entries": [
+                {
+                    "account_name": "Expenses:Miscellaneous",
+                    "amount": 539.06
+                },
+                {
+                    "account_name": "Assets:Current Assets:Checking Account",
+                    "amount": 539.06
+                }
+            ]
+        },
+        {
+            "date": "DEC01",
+            "description": "DOLLARAMA #1205",
+            "entries": [
+                {
+                    "account_name": "Expenses:Groceries",
+                    "amount": 45.68
+                },
+                {
+                    "account_name": "Assets:Current Assets:Checking Account",
+                    "amount": 45.68
+                }
+            ]
+        },
+        {
+            "date": "DEC01",
+            "description": "PEACE HILLS INS",
+            "entries": [
+                {
+                    "account_name": "Expenses:Insurance:Other Insurance",
+                    "amount": 205.91
+                },
+                {
+                    "account_name": "Assets:Current Assets:Checking Account",
+                    "amount": 205.91
+                }
+            ]
+        },
+        {
+            "date": "DEC01",
+            "description": "ANDERS EAST DEV RSL",
+            "entries": [
+                {
+                    "account_name": "Expenses:Miscellaneous",
+                    "amount": 4798.15
+                },
+                {
+                    "account_name": "Assets:Current Assets:Checking Account",
+                    "amount": 4798.15
+                }
+            ]
+        },
+        {
+            "date": "DEC01",
+            "description": "MRCH22943110105 MSP",
+            "entries": [
+                {
+                    "account_name": "Expenses:Other",
+                    "amount": 110.34
+                },
+                {
+                    "account_name": "Assets:Current Assets:Checking Account",
+                    "amount": 110.34
+                }
+            ]
+        },
+        {
+            "date": "DEC01",
+            "description": "CH013501-11479725",
+            "entries": [
+                {
+                    "account_name": "Expenses:Utilities:Electric",
+                    "amount": 525.0
+                },
+                {
+                    "account_name": "Assets:Current Assets:Checking Account",
+                    "amount": 525.0
+                }
+            ]
+        },
+        {
+            "date": "DEC01",
+            "description": "TD VISA23716654",
+            "entries": [
+                {
+                    "account_name": "Expenses:Groceries",
+                    "amount": 123.4
+                },
+                {
+                    "account_name": "Assets:Current Assets:Checking Account",
+                    "amount": 123.4
+                }
+            ]
+        },
+        {
+            "date": "DEC01",
+            "description": "TD MC 23716654",
+            "entries": [
+                {
+                    "account_name": "Expenses:Auto:Fuel",
+                    "amount": 255.51
+                },
+                {
+                    "account_name": "Assets:Current Assets:Checking Account",
+                    "amount": 255.51
+                }
+            ]
+        },
+        {
+            "date": "DEC01",
+            "description": "TD IDP 23716654",
+            "entries": [
+                {
+                    "account_name": "Income:Other Income",
+                    "amount": 385.52
+                },
+                {
+                    "account_name": "Assets:Current Assets:Checking Account",
+                    "amount": 385.52
+                }
+            ]
+        },
+        {
+            "date": "DEC01",
+            "description": "TD MSR NOV BUS",
+            "entries": [
+                {
+                    "account_name": "Expenses:Miscellaneous",
+                    "amount": 169.0
+                },
+                {
+                    "account_name": "Assets:Current Assets:Checking Account",
+                    "amount": 169.0
+                }
+            ]
+        },
+        {
+            "date": "DEC01",
+            "description": "TD MC 23716654",
+            "entries": [
+                {
+                    "account_name": "Expenses:Auto:Repair and Maintenance",
+                    "amount": 221.57
+                },
+                {
+                    "account_name": "Assets:Current Assets:Checking Account",
+                    "amount": 221.57
+                }
+            ]
+        },
+        {
+            "date": "DEC01",
+            "description": "TD VISA23716654",
+            "entries": [
+                {
+                    "account_name": "Expenses:Groceries",
+                    "amount": 285.61
+                },
+                {
+                    "account_name": "Assets:Current Assets:Checking Account",
+                    "amount": 285.61
+                }
+            ]
+        },
+        {
+            "date": "DEC01",
+            "description": "TD VISAAZ23716654",
+            "entries": [
+                {
+                    "account_name": "Expenses:Dining",
+                    "amount": 478.56
+                },
+                {
+                    "account_name": "Assets:Current Assets:Checking Account",
+                    "amount": 478.56
+                }
+            ]
+        },
+        {
+            "date": "DEC01",
+            "description": "TD IDP 23716654",
+            "entries": [
+                {
+                    "account_name": "Income:Interest Income:Other Interest",
+                    "amount": 497.99
+                },
+                {
+                    "account_name": "Assets:Current Assets:Checking Account",
+                    "amount": 497.99
+                }
+            ]
+        },
+        {
+            "date": "DEC01",
+            "description": "TD MC 23716654",
+            "entries": [
+                {
+                    "account_name": "Expenses:Miscellaneous",
+                    "amount": 724.13
+                },
+                {
+                    "account_name": "Assets:Current Assets:Checking Account",
+                    "amount": 724.13
+                }
+            ]
+        },
+        {
+            "date": "DEC01",
+            "description": "TD VISA23716654",
+            "entries": [
+                {
+                    "account_name": "Expenses:Public Transportation",
+                    "amount": 561.65
+                },
+                {
+                    "account_name": "Assets:Current Assets:Checking Account",
+                    "amount": 561.65
+                }
+            ]
+        },
+        {
+            "date": "DEC01",
+            "description": "REAL CAN. WHOLE",
+            "entries": [
+                {
+                    "account_name": "Income:Other Income",
+                    "amount": 640.37
+                },
+                {
+                    "account_name": "Assets:Current Assets:Checking Account",
+                    "amount": 640.37
+                }
+            ]
+        },
+        {
+            "date": "DEC01",
+            "description": "SAHUTOO  YZ664",
+            "entries": [
+                {
+                    "account_name": "Expenses:Groceries",
+                    "amount": 20.0
+                },
+                {
+                    "account_name": "Assets:Current Assets:Checking Account",
+                    "amount": 20.0
+                }
+            ]
+        },
+        {
+            "date": "DEC01",
+            "description": "SYSCO- CALGARY YZ664",
+            "entries": [
+                {
+                    "account_name": "Expenses:Groceries",
+                    "amount": 432.93
+                },
+                {
+                    "account_name": "Assets:Current Assets:Checking Account",
+                    "amount": 432.93
+                }
+            ]
+        },
+        {
+            "date": "DEC01",
+            "description": "CH00776-3141986045",
+            "entries": [
+                {
+                    "account_name": "Expenses:Miscellaneous",
+                    "amount": 108.75
+                },
+                {
+                    "account_name": "Assets:Current Assets:Checking Account",
+                    "amount": 108.75
+                }
+            ]
+        },
+        {
+            "date": "DEC01",
+            "description": "TD MC 23716654",
+            "entries": [
+                {
+                    "account_name": "Expenses:Medical Expenses",
+                    "amount": 1,
+                    "|align=middle": "account_name",
+                    "None": "None"
+                }
+            ]
+        }
+    ]
+}
